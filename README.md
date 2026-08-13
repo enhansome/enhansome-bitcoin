@@ -1,7 +1,7 @@
 # Awesome Bitcoin with stars
 
 A curated list of bitcoin services and tools for software developers
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,066 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,250 | 🐛 100 | 📅 2026-06-30
 
 ## List of content
 
@@ -55,9 +55,9 @@ A curated list of bitcoin services and tools for software developers
 
 ## Blockchain API and Web services
 
-* [Esplora](https://github.com/Blockstream/esplora) ⭐ 1,259 | 🐛 190 | 🌐 JavaScript | 📅 2026-08-11 - Self-hosted blockchain explorer.
+* [Esplora](https://github.com/Blockstream/esplora) ⭐ 1,260 | 🐛 189 | 🌐 JavaScript | 📅 2026-08-13 - Self-hosted blockchain explorer.
 * [One-Time Address](https://github.com/alexk111/One-Time-Address) ⭐ 82 | 🐛 7 | 🌐 Handlebars | 📅 2022-12-11 A better way to share your Bitcoin address.
-* [Chainradar API](https://github.com/yasaricli/chainradar-api) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2018-09-01 - Blockchain Explorer API for Chainradar.
+* [Chainradar API](https://github.com/yasaricli/chainradar-api) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2018-09-01 - Blockchain Explorer API for Chainradar.
 * [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
 * [Bitquery.io](https://bitquery.io/) - Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool.
 * [block.io](https://block.io)
@@ -127,12 +127,12 @@ A curated list of bitcoin services and tools for software developers
 
 * [Libbitcoin](https://libbitcoin.org/)
 * [Libbitcoin](https://libbitcoin.info/) - A set of cross platform C++ libraries for building bitcoin applications
-* [libwally-core](https://github.com/ElementsProject/libwally-core) ⭐ 305 | 🐛 32 | 🌐 C | 📅 2026-08-10
+* [libwally-core](https://github.com/ElementsProject/libwally-core) ⭐ 306 | 🐛 32 | 🌐 C | 📅 2026-08-10
 
 ## JavaScript Libraries
 
-* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) ⭐ 5,997 | 🐛 51 | 🌐 JavaScript | 📅 2026-02-17
-* [Bitcore Library](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib) ⭐ 4,989 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-06
+* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) ⭐ 5,998 | 🐛 51 | 🌐 JavaScript | 📅 2026-02-17
+* [Bitcore Library](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib) ⭐ 4,989 | 🐛 45 | 🌐 TypeScript | 📅 2026-08-06
 * [bcoin](https://github.com/bcoin-org/bcoin) ⭐ 3,066 | 🐛 202 | 🌐 JavaScript | 📅 2024-02-12 - Javascript bitcoin library for node.js and browsers.
 * [noble-curves](https://github.com/paulmillr/noble-curves) ⭐ 935 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-13 — audited implementation of secp256k1 + schnorr in pure typescript
 * [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) ⭐ 881 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-10 — alternative implementation of secp256k1: size is only 4KB gzipped; lots of comments, very valuable for learning how algorithms work
@@ -158,7 +158,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Rust Libraries
 
-* [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) ⭐ 2,654 | 🐛 484 | 🌐 Rust | 📅 2026-08-13 - support for de/serialization, parsing and executing on data-structures and network messages.
+* [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) ⭐ 2,654 | 🐛 488 | 🌐 Rust | 📅 2026-08-13 - support for de/serialization, parsing and executing on data-structures and network messages.
 * [Bithoven](https://github.com/ChrisCho-H/bithoven) ⭐ 43 | 🐛 5 | 🌐 Rust | 📅 2026-02-25 -  A High-Level, Imperative Language for Bitcoin Smart Contracts, featuring an LR(1) parser with static analysis for compile-time safety.
 * [Bitcoin Dev Kit (BDK)](https://bitcoindevkit.org/) - With BDK, you can seamlessly build cross platform mobile wallets
 * [Lightning Dev Kit (LDK)](https://lightningdevkit.org/) -  Complete Lightning implementation packaged as an SDK
@@ -223,7 +223,7 @@ A curated list of bitcoin services and tools for software developers
 ## Full nodes
 
 * [btcd](https://github.com/btcsuite/btcd/) ⭐ 6,697 | 🐛 342 | 🌐 Go | 📅 2026-08-12 - Go-based full node since 2013.
-* [Bitcore](https://github.com/bitpay/bitcore) ⭐ 4,989 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-06 - Formerly just a Nodejs library, now a full node.
+* [Bitcore](https://github.com/bitpay/bitcore) ⭐ 4,989 | 🐛 45 | 🌐 TypeScript | 📅 2026-08-06 - Formerly just a Nodejs library, now a full node.
 * [Bitcore Node](https://github.com/bitpay/bitcore-node) ⭐ 352 | 🐛 89 | 🌐 JavaScript | 📅 2023-03-08 - bitcoind linked to node.js by BitPay.
 * [Fullnode](https://github.com/moneybutton/yours-bitcoin) ⭐ 193 | 🐛 29 | 🌐 JavaScript | 📅 2022-04-16 - Javascript implementation of bitcoin.
 * [Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node) ⭐ 26 | 🐛 3 | 🌐 Ruby | 📅 2016-04-23 - bitcoin node based on bitcoin-ruby-blockchain.
@@ -264,7 +264,7 @@ A curated list of bitcoin services and tools for software developers
 
 ***
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,066 | 🐛 100 | 📅 2026-06-30 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,250 | 🐛 100 | 📅 2026-06-30 list thing.
 Created by BlockchainU fellows.
 
 ***

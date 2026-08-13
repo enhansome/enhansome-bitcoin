@@ -213,10 +213,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T21:39:40Z",
+            "last_commit": "2026-08-13T14:11:08Z",
             "owner": "Blockstream",
             "repo": "esplora",
-            "stars": 1259
+            "stars": 1260
           }
         },
         {
@@ -244,7 +244,7 @@
             "last_commit": "2018-09-01T01:54:57Z",
             "owner": "yasaricli",
             "repo": "chainradar-api",
-            "stars": 4
+            "stars": 5
           }
         }
       ],
@@ -298,7 +298,7 @@
             "last_commit": "2026-02-17T01:08:49Z",
             "owner": "bitcoinjs",
             "repo": "bitcoinjs-lib",
-            "stars": 5997
+            "stars": 5998
           }
         },
         {
@@ -1001,7 +1001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:34:22.680Z",
+    "last_updated": "2026-08-13T14:35:52.119Z",
     "original_repository": "igorbarinov/awesome-bitcoin",
     "original_repository_sha": "1ca798285d11bf0cde8f396a6de8c81324612849",
     "enhanced_repository": "enhansome/enhansome-bitcoin",
