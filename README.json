@@ -213,7 +213,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T14:11:08Z",
+            "last_commit": "2026-08-14T23:35:00Z",
             "owner": "Blockstream",
             "repo": "esplora",
             "stars": 1260
@@ -278,7 +278,7 @@
             "last_commit": "2026-08-10T12:26:08Z",
             "owner": "shrec",
             "repo": "UltrafastSecp256k1",
-            "stars": 50
+            "stars": 51
           }
         }
       ],
@@ -478,7 +478,7 @@
             "last_commit": "2024-08-19T18:41:11Z",
             "owner": "lian",
             "repo": "bitcoin-ruby",
-            "stars": 921
+            "stars": 920
           }
         },
         {
@@ -489,7 +489,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-09T08:32:39Z",
+            "last_commit": "2026-08-15T06:11:41Z",
             "owner": "chaintope",
             "repo": "bitcoinrb",
             "stars": 67
@@ -588,7 +588,7 @@
             "last_commit": "2024-07-03T07:01:58Z",
             "owner": "vbuterin",
             "repo": "pybitcointools",
-            "stars": 1332
+            "stars": 1333
           }
         },
         {
@@ -746,7 +746,7 @@
             "last_commit": "2026-07-29T02:17:13Z",
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5659
+            "stars": 5658
           }
         },
         {
@@ -946,7 +946,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25289
+            "stars": 25288
           }
         },
         {
@@ -1001,7 +1001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:29:51.044Z",
+    "last_updated": "2026-08-15T13:50:01.055Z",
     "original_repository": "igorbarinov/awesome-bitcoin",
     "original_repository_sha": "1ca798285d11bf0cde8f396a6de8c81324612849",
     "enhanced_repository": "enhansome/enhansome-bitcoin",
