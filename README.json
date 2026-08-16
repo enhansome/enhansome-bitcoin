@@ -42,7 +42,7 @@
             "last_commit": "2024-03-01T22:16:22Z",
             "owner": "libbitcoin",
             "repo": "libbitcoin-explorer",
-            "stars": 643
+            "stars": 642
           }
         },
         {
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T10:32:41Z",
+            "last_commit": "2026-08-15T20:15:42Z",
             "owner": "boazeb",
             "repo": "papervault",
             "stars": 62
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-14T23:35:00Z",
             "owner": "Blockstream",
             "repo": "esplora",
-            "stars": 1260
+            "stars": 1261
           }
         },
         {
@@ -261,7 +261,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-04T21:17:19Z",
+            "last_commit": "2026-08-16T11:03:01Z",
             "owner": "bitcoin-core",
             "repo": "secp256k1",
             "stars": 2473
@@ -421,7 +421,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T20:01:12Z",
+            "last_commit": "2026-08-16T10:53:57Z",
             "owner": "forgesworn",
             "repo": "toll-booth",
             "stars": 2
@@ -537,10 +537,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T12:58:54Z",
+            "last_commit": "2026-08-16T01:15:54Z",
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
-            "stars": 2654
+            "stars": 2652
           }
         },
         {
@@ -675,7 +675,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-07-30T10:51:50Z",
+            "last_commit": "2026-08-16T00:18:12Z",
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
             "stars": 85
@@ -870,7 +870,7 @@
             "last_commit": "2026-08-12T13:49:35Z",
             "owner": "btcsuite",
             "repo": "btcd",
-            "stars": 6697
+            "stars": 6698
           }
         },
         {
@@ -1001,7 +1001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:50:01.055Z",
+    "last_updated": "2026-08-16T13:50:58.825Z",
     "original_repository": "igorbarinov/awesome-bitcoin",
     "original_repository_sha": "1ca798285d11bf0cde8f396a6de8c81324612849",
     "enhanced_repository": "enhansome/enhansome-bitcoin",
