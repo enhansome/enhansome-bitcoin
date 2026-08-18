@@ -213,10 +213,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T23:35:00Z",
+            "last_commit": "2026-08-17T19:04:45Z",
             "owner": "Blockstream",
             "repo": "esplora",
-            "stars": 1261
+            "stars": 1260
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2026-08-17T08:30:57Z",
             "owner": "bitcoin-core",
             "repo": "secp256k1",
-            "stars": 2472
+            "stars": 2473
           }
         },
         {
@@ -275,7 +275,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T08:58:35Z",
+            "last_commit": "2026-08-17T20:58:55Z",
             "owner": "shrec",
             "repo": "UltrafastSecp256k1",
             "stars": 51
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-06T21:11:29Z",
             "owner": "bitpay",
             "repo": "bitcore",
-            "stars": 4990
+            "stars": 4989
           }
         },
         {
@@ -326,7 +326,7 @@
             "last_commit": "2024-02-12T16:30:12Z",
             "owner": "bcoin-org",
             "repo": "bcoin",
-            "stars": 3066
+            "stars": 3067
           }
         },
         {
@@ -337,10 +337,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T06:56:31Z",
+            "last_commit": "2026-08-17T14:11:57Z",
             "owner": "paulmillr",
             "repo": "noble-curves",
-            "stars": 936
+            "stars": 937
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-16T16:50:51Z",
             "owner": "paulmillr",
             "repo": "noble-secp256k1",
-            "stars": 881
+            "stars": 882
           }
         },
         {
@@ -368,7 +368,7 @@
             "last_commit": "2026-08-17T11:28:19Z",
             "owner": "paulmillr",
             "repo": "scure-btc-signer",
-            "stars": 237
+            "stars": 238
           }
         },
         {
@@ -421,7 +421,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T04:55:16Z",
+            "last_commit": "2026-08-17T16:19:26Z",
             "owner": "forgesworn",
             "repo": "toll-booth",
             "stars": 2
@@ -537,10 +537,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T12:40:19Z",
+            "last_commit": "2026-08-18T13:05:53Z",
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
-            "stars": 2653
+            "stars": 2655
           }
         },
         {
@@ -884,7 +884,7 @@
             "last_commit": "2026-08-06T21:11:29Z",
             "owner": "bitpay",
             "repo": "bitcore",
-            "stars": 4990
+            "stars": 4989
           }
         },
         {
@@ -946,7 +946,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25289
+            "stars": 25290
           }
         },
         {
@@ -1001,7 +1001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:59:41.004Z",
+    "last_updated": "2026-08-18T14:04:35.728Z",
     "original_repository": "igorbarinov/awesome-bitcoin",
     "original_repository_sha": "1ca798285d11bf0cde8f396a6de8c81324612849",
     "enhanced_repository": "enhansome/enhansome-bitcoin",
