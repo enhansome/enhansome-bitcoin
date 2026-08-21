@@ -105,7 +105,7 @@
             "last_commit": "2026-08-15T20:15:42Z",
             "owner": "boazeb",
             "repo": "papervault",
-            "stars": 62
+            "stars": 63
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-19T15:26:57Z",
             "owner": "bitcoin-core",
             "repo": "secp256k1",
-            "stars": 2474
+            "stars": 2477
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2026-08-17T20:58:55Z",
             "owner": "shrec",
             "repo": "UltrafastSecp256k1",
-            "stars": 52
+            "stars": 51
           }
         }
       ],
@@ -360,10 +360,10 @@
             "archived": false,
             "id": 573750299,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T14:11:57Z",
+            "last_commit": "2026-08-21T10:45:15Z",
             "owner": "paulmillr",
             "repo": "noble-curves",
-            "stars": 938
+            "stars": 939
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2026-08-16T16:50:51Z",
             "owner": "paulmillr",
             "repo": "noble-secp256k1",
-            "stars": 882
+            "stars": 883
           }
         },
         {
@@ -573,7 +573,7 @@
             "archived": false,
             "id": 21982089,
             "language": "Rust",
-            "last_commit": "2026-08-19T23:10:23Z",
+            "last_commit": "2026-08-20T14:30:30Z",
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
             "stars": 2656
@@ -759,7 +759,7 @@
             "last_commit": "2026-08-12T17:51:19Z",
             "owner": "MetacoSA",
             "repo": "NBitcoin",
-            "stars": 1942
+            "stars": 1941
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2026-07-29T02:17:13Z",
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5660
+            "stars": 5659
           }
         },
         {
@@ -927,7 +927,7 @@
             "last_commit": "2026-08-12T13:49:35Z",
             "owner": "btcsuite",
             "repo": "btcd",
-            "stars": 6698
+            "stars": 6700
           }
         },
         {
@@ -1008,7 +1008,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25292
+            "stars": 25291
           }
         },
         {
@@ -1023,7 +1023,7 @@
             "last_commit": "2025-08-23T20:49:32Z",
             "owner": "chaincodelabs",
             "repo": "bitcoin-curriculum",
-            "stars": 696
+            "stars": 699
           }
         },
         {
@@ -1061,7 +1061,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:06:53.670Z",
+    "last_updated": "2026-08-21T14:05:24.751Z",
     "original_repository": "igorbarinov/awesome-bitcoin",
     "original_repository_id": 36278089,
     "original_repository_sha": "1ca798285d11bf0cde8f396a6de8c81324612849",
