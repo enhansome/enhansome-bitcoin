@@ -228,7 +228,7 @@
             "archived": false,
             "id": 156976304,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T13:01:18Z",
+            "last_commit": "2026-08-21T14:13:29Z",
             "owner": "Blockstream",
             "repo": "esplora",
             "stars": 1261
@@ -279,7 +279,7 @@
             "archived": false,
             "id": 16648618,
             "language": "C",
-            "last_commit": "2026-08-19T15:26:57Z",
+            "last_commit": "2026-08-21T19:55:22Z",
             "owner": "bitcoin-core",
             "repo": "secp256k1",
             "stars": 2477
@@ -360,7 +360,7 @@
             "archived": false,
             "id": 573750299,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T10:45:15Z",
+            "last_commit": "2026-08-22T09:53:30Z",
             "owner": "paulmillr",
             "repo": "noble-curves",
             "stars": 939
@@ -390,7 +390,7 @@
             "archived": false,
             "id": 530492676,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T11:28:19Z",
+            "last_commit": "2026-08-22T08:57:33Z",
             "owner": "paulmillr",
             "repo": "scure-btc-signer",
             "stars": 238
@@ -450,7 +450,7 @@
             "archived": false,
             "id": 1168712448,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T16:19:26Z",
+            "last_commit": "2026-08-22T03:38:54Z",
             "owner": "forgesworn",
             "repo": "toll-booth",
             "stars": 2
@@ -720,7 +720,7 @@
             "archived": false,
             "id": 303107075,
             "language": "Java",
-            "last_commit": "2026-08-16T00:18:12Z",
+            "last_commit": "2026-08-22T04:17:24Z",
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
             "stars": 85
@@ -861,7 +861,7 @@
             "last_commit": "2023-06-26T04:16:54Z",
             "owner": "bitcoin-abe",
             "repo": "bitcoin-abe",
-            "stars": 979
+            "stars": 978
           }
         },
         {
@@ -924,10 +924,10 @@
             "archived": false,
             "id": 11931032,
             "language": "Go",
-            "last_commit": "2026-08-12T13:49:35Z",
+            "last_commit": "2026-08-22T12:33:59Z",
             "owner": "btcsuite",
             "repo": "btcd",
-            "stars": 6700
+            "stars": 6702
           }
         },
         {
@@ -1061,7 +1061,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:05:24.751Z",
+    "last_updated": "2026-08-22T13:50:18.098Z",
     "original_repository": "igorbarinov/awesome-bitcoin",
     "original_repository_id": 36278089,
     "original_repository_sha": "1ca798285d11bf0cde8f396a6de8c81324612849",
