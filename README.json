@@ -20,7 +20,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "qr-code",
           "description": "A no-framework, no-dependencies, customizable, animate-able, SVG-based web component.",
           "children": [],
           "repo_info": {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-21T14:13:29Z",
             "owner": "Blockstream",
             "repo": "esplora",
-            "stars": 1261
+            "stars": 1262
           }
         },
         {
@@ -272,6 +272,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Joinmarket",
+          "description": "Decentralized CoinJoin implementation",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 74501389,
+            "language": "Python",
+            "last_commit": "2026-04-27T12:23:52Z",
+            "owner": "JoinMarket-Org",
+            "repo": "joinmarket-clientserver",
+            "stars": 827
+          }
+        }
+      ],
+      "title": "Privacy projects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bitcoin Transaction Explorer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22253918,
+            "language": "Java",
+            "last_commit": "2026-01-16T22:41:27Z",
+            "owner": "yogh-io",
+            "repo": "bitcoin-transaction-explorer",
+            "stars": 184
+          }
+        }
+      ],
+      "title": "Blockchain Explorers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "libsecp256k1",
           "description": null,
           "children": [],
@@ -279,7 +321,7 @@
             "archived": false,
             "id": 16648618,
             "language": "C",
-            "last_commit": "2026-08-21T19:55:22Z",
+            "last_commit": "2026-08-24T12:37:13Z",
             "owner": "bitcoin-core",
             "repo": "secp256k1",
             "stars": 2477
@@ -294,7 +336,7 @@
             "archived": false,
             "id": 1148013745,
             "language": "C++",
-            "last_commit": "2026-08-17T20:58:55Z",
+            "last_commit": "2026-08-24T08:59:40Z",
             "owner": "shrec",
             "repo": "UltrafastSecp256k1",
             "stars": 51
@@ -360,10 +402,10 @@
             "archived": false,
             "id": 573750299,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T09:53:30Z",
+            "last_commit": "2026-08-23T17:18:29Z",
             "owner": "paulmillr",
             "repo": "noble-curves",
-            "stars": 939
+            "stars": 940
           }
         },
         {
@@ -450,7 +492,7 @@
             "archived": false,
             "id": 1168712448,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T03:38:54Z",
+            "last_commit": "2026-08-24T04:57:08Z",
             "owner": "forgesworn",
             "repo": "toll-booth",
             "stars": 2
@@ -573,10 +615,10 @@
             "archived": false,
             "id": 21982089,
             "language": "Rust",
-            "last_commit": "2026-08-23T12:44:01Z",
+            "last_commit": "2026-08-24T10:24:27Z",
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
-            "stars": 2656
+            "stars": 2655
           }
         },
         {
@@ -1008,7 +1050,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25292
+            "stars": 25293
           }
         },
         {
@@ -1023,7 +1065,7 @@
             "last_commit": "2025-08-23T20:49:32Z",
             "owner": "chaincodelabs",
             "repo": "bitcoin-curriculum",
-            "stars": 699
+            "stars": 698
           }
         },
         {
@@ -1061,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:52:18.059Z",
+    "last_updated": "2026-08-24T14:11:14.421Z",
     "original_repository": "igorbarinov/awesome-bitcoin",
     "original_repository_id": 36278089,
     "original_repository_sha": "1ca798285d11bf0cde8f396a6de8c81324612849",
