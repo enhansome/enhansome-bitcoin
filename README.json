@@ -228,10 +228,10 @@
             "archived": false,
             "id": 156976304,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T14:13:29Z",
+            "last_commit": "2026-08-24T19:49:04Z",
             "owner": "Blockstream",
             "repo": "esplora",
-            "stars": 1262
+            "stars": 1261
           }
         },
         {
@@ -402,7 +402,7 @@
             "archived": false,
             "id": 573750299,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T17:18:29Z",
+            "last_commit": "2026-08-24T18:44:18Z",
             "owner": "paulmillr",
             "repo": "noble-curves",
             "stars": 940
@@ -420,7 +420,7 @@
             "last_commit": "2026-08-16T16:50:51Z",
             "owner": "paulmillr",
             "repo": "noble-secp256k1",
-            "stars": 883
+            "stars": 884
           }
         },
         {
@@ -432,7 +432,7 @@
             "archived": false,
             "id": 530492676,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T08:57:33Z",
+            "last_commit": "2026-08-24T20:06:02Z",
             "owner": "paulmillr",
             "repo": "scure-btc-signer",
             "stars": 238
@@ -615,7 +615,7 @@
             "archived": false,
             "id": 21982089,
             "language": "Rust",
-            "last_commit": "2026-08-24T10:24:27Z",
+            "last_commit": "2026-08-24T18:29:47Z",
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
             "stars": 2655
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:06:50.224Z",
+    "last_updated": "2026-08-25T06:03:43.318Z",
     "original_repository": "igorbarinov/awesome-bitcoin",
     "original_repository_id": 36278089,
     "original_repository_sha": "1ca798285d11bf0cde8f396a6de8c81324612849",
