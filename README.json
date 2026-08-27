@@ -231,7 +231,7 @@
             "last_commit": "2026-08-25T15:03:11Z",
             "owner": "Blockstream",
             "repo": "esplora",
-            "stars": 1262
+            "stars": 1261
           }
         },
         {
@@ -402,10 +402,10 @@
             "archived": false,
             "id": 573750299,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T18:44:18Z",
+            "last_commit": "2026-08-27T10:39:47Z",
             "owner": "paulmillr",
             "repo": "noble-curves",
-            "stars": 940
+            "stars": 941
           }
         },
         {
@@ -417,7 +417,7 @@
             "archived": false,
             "id": 192992297,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T15:00:44Z",
+            "last_commit": "2026-08-27T10:40:43Z",
             "owner": "paulmillr",
             "repo": "noble-secp256k1",
             "stars": 885
@@ -432,7 +432,7 @@
             "archived": false,
             "id": 530492676,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T20:06:02Z",
+            "last_commit": "2026-08-26T17:34:11Z",
             "owner": "paulmillr",
             "repo": "scure-btc-signer",
             "stars": 239
@@ -615,7 +615,7 @@
             "archived": false,
             "id": 21982089,
             "language": "Rust",
-            "last_commit": "2026-08-24T18:29:47Z",
+            "last_commit": "2026-08-27T00:02:39Z",
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
             "stars": 2672
@@ -798,7 +798,7 @@
             "archived": false,
             "id": 18596168,
             "language": "C#",
-            "last_commit": "2026-08-12T17:51:19Z",
+            "last_commit": "2026-08-27T07:04:49Z",
             "owner": "MetacoSA",
             "repo": "NBitcoin",
             "stars": 1941
@@ -837,7 +837,7 @@
             "last_commit": "2026-07-29T02:17:13Z",
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5661
+            "stars": 5662
           }
         },
         {
@@ -1050,7 +1050,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25294
+            "stars": 25295
           }
         },
         {
@@ -1103,9 +1103,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:10:01.946Z",
-    "original_repository": "igorbarinov/awesome-bitcoin",
-    "original_repository_id": 36278089,
+    "last_updated": "2026-08-27T11:28:00.694Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 36278089,
+      "language": null,
+      "last_commit": "2026-08-12T15:11:07Z",
+      "owner": "igorbarinov",
+      "repo": "awesome-bitcoin",
+      "stars": 1352
+    },
     "original_repository_sha": "1ca798285d11bf0cde8f396a6de8c81324612849",
     "enhanced_repository": "enhansome/enhansome-bitcoin",
     "enhanced_repository_description": null,
