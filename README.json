@@ -16,7 +16,8 @@
             "owner": "richardkiss",
             "repo": "pycoin",
             "stars": 1439
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "bitjson",
             "repo": "qr-code",
             "stars": 1381
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "libbitcoin",
             "repo": "libbitcoin-explorer",
             "stars": 643
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "vulpemventures",
             "repo": "nigiri",
             "stars": 329
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "prettymuchbryce",
             "repo": "hellobitcoin",
             "stars": 255
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "stevenroose",
             "repo": "hal",
             "stars": 216
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "boazeb",
             "repo": "papervault",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "tsileo",
             "repo": "txwatcher",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "alexk111",
             "repo": "HD-Wallet-Scanner",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "douvy",
             "repo": "btc-tooling",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "singularityjason",
             "repo": "lightning-memory",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "bennet-org",
             "repo": "bitcoin-serverless-donations",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "paranoid-qrypto",
             "repo": "btc-airgap-bridge",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "8144225309",
             "repo": "superscalar-mcp",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         }
       ],
       "title": "Utilities"
@@ -232,7 +246,8 @@
             "owner": "Blockstream",
             "repo": "esplora",
             "stars": 1261
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "alexk111",
             "repo": "One-Time-Address",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "yasaricli",
             "repo": "chainradar-api",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         }
       ],
       "title": "Blockchain API and Web services"
@@ -283,7 +300,8 @@
             "owner": "JoinMarket-Org",
             "repo": "joinmarket-clientserver",
             "stars": 827
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         }
       ],
       "title": "Privacy projects"
@@ -304,7 +322,8 @@
             "owner": "yogh-io",
             "repo": "bitcoin-transaction-explorer",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         }
       ],
       "title": "Blockchain Explorers"
@@ -325,7 +344,8 @@
             "owner": "bitcoin-core",
             "repo": "secp256k1",
             "stars": 2477
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "shrec",
             "repo": "UltrafastSecp256k1",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         }
       ],
       "title": "C Libraries"
@@ -361,7 +382,8 @@
             "owner": "bitcoinjs",
             "repo": "bitcoinjs-lib",
             "stars": 5997
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -372,11 +394,12 @@
             "archived": false,
             "id": 15259244,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T22:43:02Z",
+            "last_commit": "2026-08-28T18:44:59Z",
             "owner": "bitpay",
             "repo": "bitcore",
             "stars": 4987
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -391,7 +414,8 @@
             "owner": "bcoin-org",
             "repo": "bcoin",
             "stars": 3068
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -405,8 +429,9 @@
             "last_commit": "2026-08-27T14:20:13Z",
             "owner": "paulmillr",
             "repo": "noble-curves",
-            "stars": 940
-          }
+            "stars": 941
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -420,8 +445,9 @@
             "last_commit": "2026-08-27T15:01:14Z",
             "owner": "paulmillr",
             "repo": "noble-secp256k1",
-            "stars": 885
-          }
+            "stars": 886
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -432,11 +458,12 @@
             "archived": false,
             "id": 530492676,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T17:34:11Z",
+            "last_commit": "2026-08-28T19:50:29Z",
             "owner": "paulmillr",
             "repo": "scure-btc-signer",
-            "stars": 239
-          }
+            "stars": 241
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -451,7 +478,8 @@
             "owner": "cryptocoinjs",
             "repo": "awesome-cryptocoinjs",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -466,7 +494,8 @@
             "owner": "blocktrail",
             "repo": "blocktrail-sdk-nodejs",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -481,7 +510,8 @@
             "owner": "ChrisCho-H",
             "repo": "bitcoin-sdk-js",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -496,7 +526,8 @@
             "owner": "forgesworn",
             "repo": "toll-booth",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         }
       ],
       "title": "JavaScript Libraries"
@@ -517,7 +548,8 @@
             "owner": "coinspark",
             "repo": "php-OP_RETURN",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -532,7 +564,8 @@
             "owner": "blocktrail",
             "repo": "blocktrail-sdk-php",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         }
       ],
       "title": "PHP Libraries"
@@ -553,7 +586,8 @@
             "owner": "lian",
             "repo": "bitcoin-ruby",
             "stars": 921
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -568,7 +602,8 @@
             "owner": "chaintope",
             "repo": "bitcoinrb",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -583,7 +618,8 @@
             "owner": "azuchi",
             "repo": "bech32rb",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -598,7 +634,8 @@
             "owner": "chaintope",
             "repo": "bip-schnorrrb",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         }
       ],
       "title": "Ruby Libraries"
@@ -615,11 +652,12 @@
             "archived": false,
             "id": 21982089,
             "language": "Rust",
-            "last_commit": "2026-08-27T00:02:39Z",
+            "last_commit": "2026-08-28T15:49:26Z",
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
             "stars": 2672
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -634,7 +672,8 @@
             "owner": "ChrisCho-H",
             "repo": "bithoven",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         }
       ],
       "title": "Rust Libraries"
@@ -655,7 +694,8 @@
             "owner": "richardkiss",
             "repo": "pycoin",
             "stars": 1439
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -670,7 +710,8 @@
             "owner": "vbuterin",
             "repo": "pybitcointools",
             "stars": 1332
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -685,7 +726,8 @@
             "owner": "sr-gi",
             "repo": "bitcoin_tools",
             "stars": 313
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -700,7 +742,8 @@
             "owner": "blocktrail",
             "repo": "blocktrail-sdk-python",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -715,7 +758,8 @@
             "owner": "libraries",
             "repo": "pabtc",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -730,7 +774,8 @@
             "owner": "F483",
             "repo": "btctxstore",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         }
       ],
       "title": "Python Libraries"
@@ -751,7 +796,8 @@
             "owner": "knowm",
             "repo": "XChange",
             "stars": 4079
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -762,11 +808,12 @@
             "archived": false,
             "id": 303107075,
             "language": "Java",
-            "last_commit": "2026-08-23T02:00:31Z",
+            "last_commit": "2026-08-28T21:45:01Z",
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -781,7 +828,8 @@
             "owner": "NostrGameEngine",
             "repo": "bech32",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         }
       ],
       "title": "Java Libraries"
@@ -801,8 +849,9 @@
             "last_commit": "2026-08-27T07:04:49Z",
             "owner": "MetacoSA",
             "repo": "NBitcoin",
-            "stars": 1941
-          }
+            "stars": 1940
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -817,7 +866,8 @@
             "owner": "cryptean",
             "repo": "bitcoinlib",
             "stars": 413
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         }
       ],
       "title": ".Net Libraries"
@@ -837,8 +887,9 @@
             "last_commit": "2026-07-29T02:17:13Z",
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5662
-          }
+            "stars": 5663
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -853,7 +904,8 @@
             "owner": "siminchen",
             "repo": "bitcoinIDE",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -868,7 +920,8 @@
             "owner": "h0ngcha0",
             "repo": "bitcoin4s",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -883,7 +936,8 @@
             "owner": "kallewoof",
             "repo": "btcdeb",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         }
       ],
       "title": "Playgrounds"
@@ -904,7 +958,8 @@
             "owner": "bitcoin-abe",
             "repo": "bitcoin-abe",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -919,7 +974,8 @@
             "owner": "ladimolnar",
             "repo": "BitcoinDatabaseGenerator",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -934,7 +990,8 @@
             "owner": "mcdee",
             "repo": "blockparser",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -949,7 +1006,24 @@
             "owner": "bitauth",
             "repo": "chaingraph",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
+        },
+        {
+          "node_type": "item",
+          "title": "nodsig",
+          "description": "Turns your node's blocks into sealed local artifacts: chain questions become offline lookups, and every answer carries a fingerprint anyone can recompute. Python stdlib only.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1320220247,
+            "language": "Python",
+            "last_commit": "2026-08-27T19:20:52Z",
+            "owner": "amenano",
+            "repo": "nodsig",
+            "stars": 0
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         }
       ],
       "title": "Blockchain dump"
@@ -970,7 +1044,8 @@
             "owner": "btcsuite",
             "repo": "btcd",
             "stars": 6704
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -981,11 +1056,12 @@
             "archived": false,
             "id": 15259244,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T22:43:02Z",
+            "last_commit": "2026-08-28T18:44:59Z",
             "owner": "bitpay",
             "repo": "bitcore",
             "stars": 4987
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -1000,7 +1076,8 @@
             "owner": "bitpay",
             "repo": "bitcore-node",
             "stars": 352
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -1015,7 +1092,8 @@
             "owner": "moneybutton",
             "repo": "yours-bitcoin",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -1030,7 +1108,8 @@
             "owner": "mhanne",
             "repo": "bitcoin-ruby-node",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         }
       ],
       "title": "Full nodes"
@@ -1051,7 +1130,8 @@
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
             "stars": 25296
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -1066,7 +1146,8 @@
             "owner": "chaincodelabs",
             "repo": "bitcoin-curriculum",
             "stars": 699
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -1081,7 +1162,8 @@
             "owner": "chaincodelabs",
             "repo": "lightning-curriculum",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         },
         {
           "node_type": "item",
@@ -1096,24 +1178,25 @@
             "owner": "bitcoin-studio",
             "repo": "Bitcoin-Programming-with-BitcoinJS",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T23:07:25.964Z"
         }
       ],
       "title": "Read"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:00:27.941Z",
+    "last_updated": "2026-08-28T23:07:25.964Z",
     "original_repository_info": {
       "archived": false,
       "id": 36278089,
       "language": null,
-      "last_commit": "2026-08-12T15:11:07Z",
+      "last_commit": "2026-08-28T19:08:26Z",
       "owner": "igorbarinov",
       "repo": "awesome-bitcoin",
       "stars": 1352
     },
-    "original_repository_sha": "1ca798285d11bf0cde8f396a6de8c81324612849",
+    "original_repository_sha": "70a4bc8ed47b5732571de5d9af7969f48b8731a0",
     "enhanced_repository": "enhansome/enhansome-bitcoin",
     "enhanced_repository_description": null,
     "title": "Awesome Bitcoin with stars"
