@@ -344,7 +344,7 @@
             "open_issues": 0,
             "owner": "paranoid-qrypto",
             "repo": "btc-airgap-bridge",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "air-gapped",
               "airgap",
@@ -797,7 +797,7 @@
             "id": 530492676,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T19:50:29Z",
+            "last_commit": "2026-08-29T14:43:53Z",
             "open_issues": 13,
             "owner": "paulmillr",
             "repo": "scure-btc-signer",
@@ -1104,8 +1104,8 @@
             "id": 21982089,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-08-28T15:49:26Z",
-            "open_issues": 483,
+            "last_commit": "2026-08-29T12:09:42Z",
+            "open_issues": 478,
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
             "stars": 2672,
@@ -1685,7 +1685,7 @@
             "open_issues": 345,
             "owner": "btcsuite",
             "repo": "btcd",
-            "stars": 6704,
+            "stars": 6703,
             "topics": [
               "bitcoin",
               "btcd",
@@ -1800,7 +1800,7 @@
             "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25297,
+            "stars": 25298,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -1894,7 +1894,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:30:23.350Z",
+    "last_updated": "2026-08-29T17:16:07.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bitcoin services and tools for software developers",
