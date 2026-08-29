@@ -1,7 +1,7 @@
 # Awesome Bitcoin with stars
 
 A curated list of bitcoin services and tools for software developers
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,846 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21
 
 ## List of content
 
@@ -176,7 +176,7 @@ A curated list of bitcoin services and tools for software developers
 
 > Note that you can also use [Scala libraries](#scala-libraries) in Java.
 
-* [XChange](https://github.com/knowm/XChange) ⭐ 4,079 | 🐛 195 | 🌐 Java | 📅 2026-07-31 - Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
+* [XChange](https://github.com/knowm/XChange) ⭐ 4,080 | 🐛 195 | 🌐 Java | 📅 2026-07-31 - Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
 * [Bitcoin Spring Boot Starter](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) ⭐ 85 | 🐛 18 | 🌐 Java | 📅 2026-08-28 - Bitcoin integration for Spring Boot applications.
 * [bech32](https://github.com/NostrGameEngine/bech32) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-06-07 - Bech32 and Bech32m encode/decode library.
 * [BitcoinJ](https://bitcoinj.github.io)
@@ -232,7 +232,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Read
 
-* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,296 | 🐛 191 | 🌐 HTML | 📅 2024-12-26
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,297 | 🐛 191 | 🌐 HTML | 📅 2024-12-26
 * [Bitcoin Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/bitcoin-curriculum) ⭐ 699 | 🐛 0 | 📅 2025-08-23.
 * [Lightning Network Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/lightning-curriculum) ⭐ 371 | 🐛 0 | 📅 2023-12-07.
 * [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS) ⭐ 163 | 🐛 5 | 🌐 CSS | 📅 2023-01-10.
@@ -265,7 +265,7 @@ A curated list of bitcoin services and tools for software developers
 
 ***
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,846 | 🐛 105 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 list thing.
 Created by BlockchainU fellows.
 
 ***
@@ -278,4 +278,4 @@ To the extent possible under law, [Igor Barinov](https://github.com/igorbarinov/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

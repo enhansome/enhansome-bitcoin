@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python-based Bitcoin and alt-coin utility library.",
+            "homepage": null,
             "id": 10917677,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-18T22:10:21Z",
+            "open_issues": 19,
             "owner": "richardkiss",
             "repo": "pycoin",
-            "stars": 1439
+            "stars": 1439,
+            "topics": [
+              "altcoins",
+              "bip32",
+              "bitcoin",
+              "python",
+              "segwit"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -26,12 +37,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A no-framework, no-dependencies, customizable, animate-able, SVG-based <qr-code> HTML element.",
+            "homepage": "https://qr.bitjson.com/",
             "id": 607068506,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-02-28T22:38:55Z",
+            "open_issues": 14,
             "owner": "bitjson",
             "repo": "qr-code",
-            "stars": 1381
+            "stars": 1381,
+            "topics": [
+              "animated",
+              "bch",
+              "bitcoin",
+              "bitcoin-cash",
+              "cryptocurrency",
+              "ethereum",
+              "qr-code",
+              "qr-code-component",
+              "qr-code-generator",
+              "qr-generator",
+              "stencil",
+              "svg",
+              "svg-animations",
+              "web-animations",
+              "web-component"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -42,12 +74,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitcoin Command Line Tool",
+            "homepage": null,
             "id": 23613397,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-01T22:16:22Z",
+            "open_issues": 20,
             "owner": "libbitcoin",
             "repo": "libbitcoin-explorer",
-            "stars": 643
+            "stars": 643,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -58,12 +95,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍣 A delicious docker box for special Bitcoin cookings",
+            "homepage": "https://nigiri.vulpem.com",
             "id": 175636661,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-10T16:01:40Z",
+            "open_issues": 45,
             "owner": "vulpemventures",
             "repo": "nigiri",
-            "stars": 329
+            "stars": 329,
+            "topics": [
+              "ark",
+              "ark-bitcoin",
+              "ark-layer-2",
+              "bitcoin",
+              "blockchain",
+              "lightning-network",
+              "liquid-network"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -74,12 +124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.",
+            "homepage": null,
             "id": 23293881,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2017-03-22T15:56:37Z",
+            "open_issues": 2,
             "owner": "prettymuchbryce",
             "repo": "hellobitcoin",
-            "stars": 255
+            "stars": 255,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -90,12 +145,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the Bitcoin companion",
+            "homepage": null,
             "id": 163285484,
             "language": "Rust",
+            "license": "CC0-1.0",
             "last_commit": "2026-03-12T10:18:52Z",
+            "open_issues": 11,
             "owner": "stevenroose",
             "repo": "hal",
-            "stars": 216
+            "stars": 216,
+            "topics": [
+              "bitcoin",
+              "cryptography",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -106,12 +170,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Paper vault for passwords and secrets",
+            "homepage": "https://papervault.xyz",
             "id": 1172004746,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T20:14:06Z",
+            "open_issues": 8,
             "owner": "boazeb",
             "repo": "papervault",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "cryptocurrency",
+              "cryptography",
+              "cybersecurity",
+              "digital-asset-security",
+              "password-manager"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -122,12 +197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API  and perform custom callbacks.",
+            "homepage": null,
             "id": 13378235,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-03-04T20:18:20Z",
+            "open_issues": 6,
             "owner": "tsileo",
             "repo": "txwatcher",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -138,12 +218,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "❄️ Find all used addresses in your Bitcoin HD wallets bypassing gap limits.",
+            "homepage": null,
             "id": 206322992,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-11T21:41:34Z",
+            "open_issues": 11,
             "owner": "alexk111",
             "repo": "HD-Wallet-Scanner",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "bitcoin",
+              "bitcoin-address",
+              "hd-wallet"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -154,12 +243,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitcoin dashboard with real-time price data, TradingView chart, order book, market analysis, Twitter/X insights, and halving countdown. Clean, ad-free, responsive design.",
+            "homepage": "https://btctooling.com",
             "id": 961009629,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-07-07T05:41:58Z",
+            "open_issues": 0,
             "owner": "douvy",
             "repo": "btc-tooling",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "bitcoin",
+              "bitcoin-price",
+              "cryptocurrency",
+              "dashboard",
+              "nextjs",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -170,12 +272,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Decentralized agent memory for the Lightning economy. Nostr identity, L402 payments, MCP server.",
+            "homepage": "https://pypi.org/project/lightning-memory/",
             "id": 1167170204,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-25T02:36:23Z",
+            "open_issues": 6,
             "owner": "singularityjason",
             "repo": "lightning-memory",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "agent-memory",
+              "ai-agents",
+              "ai-memory",
+              "bitcoin",
+              "claude-code",
+              "decentralized",
+              "developer-tools",
+              "l402",
+              "lightning",
+              "lightning-network",
+              "llm-tools",
+              "macaroon",
+              "mcp",
+              "mcp-server",
+              "nostr",
+              "open-source",
+              "payments",
+              "python",
+              "semantic-search",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -186,12 +314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, self-custodial solution for accepting private, on-chain Bitcoin payments using XPUBs and serverless functions.",
+            "homepage": null,
             "id": 1026889005,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-07T18:16:11Z",
+            "open_issues": 0,
             "owner": "bennet-org",
             "repo": "bitcoin-serverless-donations",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -202,12 +335,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A secure, client-side tool to broadcast a signed Bitcoin (BTC) transaction from an air-gapped wallet. Fetch UTXOs, regenerate QR codes, and submit raw hex transactions safely.",
+            "homepage": "https://paranoid-qrypto.github.io/btc-airgap-bridge/",
             "id": 1011286271,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-03T17:43:33Z",
+            "open_issues": 0,
             "owner": "paranoid-qrypto",
             "repo": "btc-airgap-bridge",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "air-gapped",
+              "airgap",
+              "bitcoin",
+              "btc",
+              "client-side",
+              "cold-storage",
+              "foss",
+              "javascript",
+              "qr-code",
+              "security",
+              "self-custody",
+              "transaction-broadcaster",
+              "utxo",
+              "web-application"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -218,12 +371,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for SuperScalar — Bitcoin Lightning channel factories. Query protocol specs, estimate UTXO savings, and explore factory architectures.",
+            "homepage": null,
             "id": 1171981381,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-03T21:42:39Z",
+            "open_issues": 0,
             "owner": "8144225309",
             "repo": "superscalar-mcp",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "bitcoin",
+              "channel-factory",
+              "layer2",
+              "lightning",
+              "lightning-network",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "musig2",
+              "payments",
+              "scaling",
+              "superscalar",
+              "taproot"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         }
@@ -240,12 +412,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Explorer for Bitcoin and Liquid",
+            "homepage": null,
             "id": 156976304,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T15:03:11Z",
+            "open_issues": 189,
             "owner": "Blockstream",
             "repo": "esplora",
-            "stars": 1261
+            "stars": 1261,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -256,12 +433,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏷 A better way to share your Bitcoin address.",
+            "homepage": null,
             "id": 204288237,
             "language": "Handlebars",
+            "license": "MIT",
             "last_commit": "2022-12-11T04:04:50Z",
+            "open_issues": 7,
             "owner": "alexk111",
             "repo": "One-Time-Address",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "bitcoin",
+              "bitcoin-address",
+              "bitcoin-payment",
+              "payments"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -272,12 +459,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blockchain Explorer API for Chainradar",
+            "homepage": "https://www.npmjs.com/package/chainradar",
             "id": 118435486,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-09-01T01:54:57Z",
+            "open_issues": 2,
             "owner": "yasaricli",
             "repo": "chainradar-api",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "aeon",
+              "api",
+              "bbr",
+              "bcn",
+              "blockchain",
+              "btc",
+              "chainradar",
+              "coins",
+              "cryptonote",
+              "dsh",
+              "duck",
+              "fcn",
+              "mcn",
+              "mro",
+              "rd"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         }
@@ -294,12 +502,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Bitcoin CoinJoin implementation with incentive structure to convince people to take part",
+            "homepage": null,
             "id": 74501389,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-27T12:23:52Z",
+            "open_issues": 227,
             "owner": "JoinMarket-Org",
             "repo": "joinmarket-clientserver",
-            "stars": 827
+            "stars": 827,
+            "topics": [
+              "bitcoin",
+              "coinjoin",
+              "joinmarket",
+              "privacy",
+              "tumbler"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         }
@@ -316,12 +535,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and pure block explorer you can run on top of a full node",
+            "homepage": "http://yogh.io",
             "id": 22253918,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-01-16T22:41:27Z",
+            "open_issues": 15,
             "owner": "yogh-io",
             "repo": "bitcoin-transaction-explorer",
-            "stars": 184
+            "stars": 184,
+            "topics": [
+              "bitcoin",
+              "block",
+              "blockchain",
+              "explorer",
+              "gwt",
+              "java",
+              "node",
+              "transactions",
+              "viewer"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         }
@@ -338,12 +572,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimized C library for EC operations on curve secp256k1",
+            "homepage": null,
             "id": 16648618,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-25T06:51:20Z",
+            "open_issues": 156,
             "owner": "bitcoin-core",
             "repo": "secp256k1",
-            "stars": 2477
+            "stars": 2477,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -354,12 +593,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultra high-performance secp256k1 ECC engine | Python, Node.js, Rust, Go, C#, Swift, Java bindings | CUDA, Metal, OpenCL GPU | ECDSA, Schnorr, FROST, MuSig2, BIP-352 | 15+ platforms",
+            "homepage": "https://shrec.github.io/UltrafastSecp256k1/",
             "id": 1148013745,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-25T19:13:53Z",
+            "open_issues": 4,
             "owner": "shrec",
             "repo": "UltrafastSecp256k1",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "android",
+              "arm64",
+              "bitcoin",
+              "constant-time",
+              "cryptography",
+              "cuda",
+              "ecdsa",
+              "embedded",
+              "ethereum",
+              "ffi",
+              "gpu-cryptography",
+              "ios",
+              "nodejs",
+              "opencl",
+              "python",
+              "riscv",
+              "rust",
+              "schnorr-signatures",
+              "secp256k1",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         }
@@ -376,12 +641,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A javascript Bitcoin library for node.js and browsers.",
+            "homepage": null,
             "id": 1701968,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-17T01:08:49Z",
+            "open_issues": 53,
             "owner": "bitcoinjs",
             "repo": "bitcoinjs-lib",
-            "stars": 5997
+            "stars": 5997,
+            "topics": [
+              "bitcoin",
+              "bitcoinjs",
+              "bitcoinjs-lib",
+              "browserify",
+              "javascript",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -392,12 +669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full stack for bitcoin and blockchain-based applications",
+            "homepage": "https://bitcore.io/",
             "id": 15259244,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:44:59Z",
+            "open_issues": 51,
             "owner": "bitpay",
             "repo": "bitcore",
-            "stars": 4987
+            "stars": 4987,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -408,12 +690,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript bitcoin library for node.js and browsers",
+            "homepage": "https://bcoin.io",
             "id": 19239509,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-12T16:30:12Z",
+            "open_issues": 201,
             "owner": "bcoin-org",
             "repo": "bcoin",
-            "stars": 3068
+            "stars": 3068,
+            "topics": [
+              "bitcoin",
+              "cryptocurrency",
+              "mining",
+              "wallet"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -424,12 +716,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audited & minimal JS implementation of elliptic curve cryptography.",
+            "homepage": "https://paulmillr.com/noble",
             "id": 573750299,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T14:20:13Z",
+            "open_issues": 1,
             "owner": "paulmillr",
             "repo": "noble-curves",
-            "stars": 941
+            "stars": 941,
+            "topics": [
+              "bitcoin",
+              "bls12-381",
+              "bn254",
+              "crypto",
+              "cryptography",
+              "ecdsa",
+              "ed25519",
+              "ed448",
+              "eddsa",
+              "elliptic-curve-cryptography",
+              "elliptic-curves",
+              "ethereum",
+              "noble",
+              "oprf",
+              "p256",
+              "p384",
+              "p521",
+              "ristretto255",
+              "secp256k1",
+              "x448"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -440,12 +758,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fastest 5KB JS implementation of secp256k1 signatures and ECDH",
+            "homepage": "https://paulmillr.com/noble",
             "id": 192992297,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T15:01:14Z",
+            "open_issues": 0,
             "owner": "paulmillr",
             "repo": "noble-secp256k1",
-            "stars": 886
+            "stars": 886,
+            "topics": [
+              "bitcoin",
+              "cryptography",
+              "curve",
+              "ecc",
+              "ecdsa",
+              "elliptic",
+              "ethereum",
+              "noble",
+              "rfc6979",
+              "schnorr",
+              "secp256k1",
+              "signature"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -456,12 +792,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audited & minimal library for creating, signing & decoding Bitcoin transactions.",
+            "homepage": "https://paulmillr.com/noble/#scure",
             "id": 530492676,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:50:29Z",
+            "open_issues": 13,
             "owner": "paulmillr",
             "repo": "scure-btc-signer",
-            "stars": 241
+            "stars": 241,
+            "topics": [
+              "bip174",
+              "bip327",
+              "bip340",
+              "bip341",
+              "bitcoin",
+              "btc",
+              "musig2",
+              "psbt",
+              "schnorr",
+              "signer",
+              "taproot",
+              "utxo"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -472,12 +826,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Useful crypto coins JavaScript libraries",
+            "homepage": null,
             "id": 51863741,
             "language": null,
+            "license": null,
             "last_commit": "2016-02-17T14:23:29Z",
+            "open_issues": 0,
             "owner": "cryptocoinjs",
             "repo": "awesome-cryptocoinjs",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "bitcoin",
+              "cryptocurrency"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -488,12 +850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BlockTrail's Developer Friendly NodeJS SDK for the BlockTrail API",
+            "homepage": null,
             "id": 24938331,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-03-09T10:45:58Z",
+            "open_issues": 19,
             "owner": "blocktrail",
             "repo": "blocktrail-sdk-nodejs",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -504,12 +871,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitcoin TypeScript/JavaScript Library for NodeJS, Browser and Mobile. Segwit & Taproot support.✨",
+            "homepage": null,
             "id": 700757655,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-10-24T11:41:38Z",
+            "open_issues": 1,
             "owner": "ChrisCho-H",
             "repo": "bitcoin-sdk-js",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "bitcoin",
+              "javascript",
+              "message-signing",
+              "nodejs",
+              "segwit",
+              "smart-contracts",
+              "taproot",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -520,12 +901,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Any API becomes a Lightning toll booth in one line. L402 middleware for Express, Hono, Deno, Bun, and Workers.",
+            "homepage": "https://www.npmjs.com/package/@forgesworn/toll-booth",
             "id": 1168712448,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T04:57:08Z",
+            "open_issues": 7,
             "owner": "forgesworn",
             "repo": "toll-booth",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "ai-agents",
+              "api-monetization",
+              "bitcoin",
+              "bun",
+              "cashu",
+              "deno",
+              "ecash",
+              "express",
+              "hono",
+              "http-402",
+              "l402",
+              "lightning",
+              "macaroon",
+              "machine-payments",
+              "micropayments",
+              "middleware",
+              "nwc",
+              "stablecoin",
+              "typescript",
+              "x402"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         }
@@ -542,12 +949,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple PHP commands and library for using bitcoin OP_RETURNs.",
+            "homepage": null,
             "id": 24770714,
             "language": "PHP",
+            "license": null,
             "last_commit": "2020-03-09T03:48:54Z",
+            "open_issues": 7,
             "owner": "coinspark",
             "repo": "php-OP_RETURN",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -558,12 +970,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BlockTrail's Developer Friendly PHP SDK for the BlockTrail API",
+            "homepage": null,
             "id": 24901786,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2024-04-28T20:33:33Z",
+            "open_issues": 37,
             "owner": "blocktrail",
             "repo": "blocktrail-sdk-php",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         }
@@ -580,12 +997,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bitcoin utils and protocol in ruby.",
+            "homepage": null,
             "id": 1750973,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-19T18:41:11Z",
+            "open_issues": 39,
             "owner": "lian",
             "repo": "bitcoin-ruby",
-            "stars": 921
+            "stars": 921,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -596,12 +1018,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The implementation of the bitcoin protocol for ruby.",
+            "homepage": null,
             "id": 94193706,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-15T06:11:41Z",
+            "open_issues": 1,
             "owner": "chaintope",
             "repo": "bitcoinrb",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -612,12 +1043,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The implementation of Bech32 encoder and decoder for ruby",
+            "homepage": null,
             "id": 90827323,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-07T05:59:23Z",
+            "open_issues": 1,
             "owner": "azuchi",
             "repo": "bech32rb",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "bech32",
+              "bech32m",
+              "bitcoin"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -628,12 +1068,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ruby implementation of bip-schnorr",
+            "homepage": null,
             "id": 235059613,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-07T05:08:29Z",
+            "open_issues": 0,
             "owner": "chaintope",
             "repo": "bip-schnorrrb",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "bitcoin",
+              "musig2",
+              "schnorr"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         }
@@ -650,12 +1099,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust Bitcoin library",
+            "homepage": null,
             "id": 21982089,
             "language": "Rust",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-28T15:49:26Z",
+            "open_issues": 483,
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
-            "stars": 2672
+            "stars": 2672,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -666,12 +1120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. LR(1) parser with static analysis for compile-time safety. Formal verification paper: https://arxiv.org/abs/2601.01436",
+            "homepage": "https://bithoven-lang.github.io/bithoven/docs/",
             "id": 930205454,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-02-25T05:35:42Z",
+            "open_issues": 5,
             "owner": "ChrisCho-H",
             "repo": "bithoven",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         }
@@ -688,12 +1147,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python-based Bitcoin and alt-coin utility library.",
+            "homepage": null,
             "id": 10917677,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-18T22:10:21Z",
+            "open_issues": 19,
             "owner": "richardkiss",
             "repo": "pycoin",
-            "stars": 1439
+            "stars": 1439,
+            "topics": [
+              "altcoins",
+              "bip32",
+              "bitcoin",
+              "python",
+              "segwit"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -704,12 +1174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SImple, common-sense Bitcoin-themed Python ECC library",
+            "homepage": null,
             "id": 12005476,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-03T07:01:58Z",
+            "open_issues": 89,
             "owner": "vbuterin",
             "repo": "pybitcointools",
-            "stars": 1332
+            "stars": 1332,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -720,12 +1195,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python Bitcoin tools",
+            "homepage": null,
             "id": 74142790,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-01-30T09:47:26Z",
+            "open_issues": 7,
             "owner": "sr-gi",
             "repo": "bitcoin_tools",
-            "stars": 313
+            "stars": 313,
+            "topics": [
+              "bitcoin",
+              "bitcoin-transaction",
+              "leveldb",
+              "python",
+              "tools",
+              "utxo"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -736,12 +1223,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python BlockTrail's Developer Friendly SDK for the BlockTrail API",
+            "homepage": null,
             "id": 24898059,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-02-27T07:51:30Z",
+            "open_issues": 7,
             "owner": "blocktrail",
             "repo": "blocktrail-sdk-python",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -752,12 +1244,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pabtc is a project that aims to provide human-friendly interfaces for common btc operations.",
+            "homepage": null,
             "id": 736999893,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-09T03:09:18Z",
+            "open_issues": 0,
             "owner": "libraries",
             "repo": "pabtc",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -768,12 +1265,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "I simple library to store/retrieve information in bitcoin transactions using OP_RETURN",
+            "homepage": null,
             "id": 35559173,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-02T11:35:34Z",
+            "open_issues": 16,
             "owner": "F483",
             "repo": "btctxstore",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         }
@@ -790,12 +1292,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XChange is a Java library providing a streamlined API for interacting with 60+ Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data.",
+            "homepage": "http://knowm.org/open-source/xchange/",
             "id": 3333998,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-07-31T12:04:54Z",
+            "open_issues": 195,
             "owner": "knowm",
             "repo": "XChange",
-            "stars": 4079
+            "stars": 4080,
+            "topics": [
+              "bitcoin"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -806,12 +1315,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write enterprise Bitcoin applications with Spring Boot. Starter projects with multiple Bitcoin related modules that you can include in your application.",
+            "homepage": "https://theborakompanioni.github.io/bitcoin-spring-boot-starter",
             "id": 303107075,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:45:01Z",
+            "open_issues": 18,
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "bitcoin",
+              "cln",
+              "java",
+              "lightning",
+              "lnd",
+              "spring",
+              "spring-boot"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -822,12 +1344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Highly optimized implementation of Bech32 and Bech32m for Java",
+            "homepage": "http://ngengine.org/bech32/",
             "id": 1011081595,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-07T22:05:30Z",
+            "open_issues": 0,
             "owner": "NostrGameEngine",
             "repo": "bech32",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         }
@@ -844,12 +1371,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comprehensive Bitcoin library for the .NET framework.",
+            "homepage": null,
             "id": 18596168,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:04:49Z",
+            "open_issues": 113,
             "owner": "MetacoSA",
             "repo": "NBitcoin",
-            "stars": 1940
+            "stars": 1940,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -860,12 +1392,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitcoin Core RPC compatible, battle-tested .NET library and RPC wrapper for Bitcoin and Altcoins",
+            "homepage": null,
             "id": 15625241,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-12-08T00:57:39Z",
+            "open_issues": 12,
             "owner": "cryptean",
             "repo": "bitcoinlib",
-            "stars": 413
+            "stars": 413,
+            "topics": [
+              "bitcoin",
+              "bitcoin-api",
+              "bitcoin-core",
+              "bitcoin-payment",
+              "bitcoind",
+              "bitcoinlib",
+              "c-sharp",
+              "cryptean",
+              "crypto-library",
+              "cryptocurrencies",
+              "cryptocurrency",
+              "cryptocurrency-exchanges",
+              "dash",
+              "dogecoin",
+              "dotnet",
+              "exchange",
+              "exchange-api",
+              "litecoin",
+              "mit-license",
+              "smartcash"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         }
@@ -882,12 +1440,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web-based demonstration of blockchain concepts.",
+            "homepage": null,
             "id": 72867492,
             "language": "Pug",
+            "license": "MIT",
             "last_commit": "2026-07-29T02:17:13Z",
+            "open_issues": 11,
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5663
+            "stars": 5663,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "blockchain-technology"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -898,12 +1465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 25315025,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-10-30T21:36:24Z",
+            "open_issues": 16,
             "owner": "siminchen",
             "repo": "bitcoinIDE",
-            "stars": 222
+            "stars": 222,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -914,12 +1486,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Bitcoin Script Interpreter and Debugger in Scala",
+            "homepage": "https://bitcoin-decoder.softfork.se/",
             "id": 99965852,
             "language": "Scala",
+            "license": null,
             "last_commit": "2026-07-26T19:25:57Z",
+            "open_issues": 4,
             "owner": "h0ngcha0",
             "repo": "bitcoin4s",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "bitcoin",
+              "cryptocurrency",
+              "scala"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -930,12 +1511,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitcoin Script Debugger",
+            "homepage": null,
             "id": 288367213,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-07-26T11:59:59Z",
+            "open_issues": 0,
             "owner": "kallewoof",
             "repo": "btcdeb",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         }
@@ -952,12 +1538,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Abe: block browser for Bitcoin and similar currencies",
+            "homepage": null,
             "id": 1887174,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2023-06-26T04:16:54Z",
+            "open_issues": 159,
             "owner": "bitcoin-abe",
             "repo": "bitcoin-abe",
-            "stars": 978
+            "stars": 978,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -968,12 +1559,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A high performance data transfer tool that can be used to transfer data from Bitcoin Core blockchain files to a SQL Server database",
+            "homepage": null,
             "id": 34605607,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2017-04-30T05:07:36Z",
+            "open_issues": 8,
             "owner": "ladimolnar",
             "repo": "BitcoinDatabaseGenerator",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "bitcoin"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -984,12 +1582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, quick and dirty bitcoin blockchain parser",
+            "homepage": null,
             "id": 9691248,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-10-05T09:20:58Z",
+            "open_issues": 0,
             "owner": "mcdee",
             "repo": "blockparser",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -1000,12 +1603,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multi-node blockchain indexer and GraphQL API",
+            "homepage": "https://chaingraph.cash/",
             "id": 411924807,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-16T01:53:02Z",
+            "open_issues": 67,
             "owner": "bitauth",
             "repo": "chaingraph",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "bitcoin",
+              "bitcoin-cash",
+              "blockchain",
+              "cryptocurrency",
+              "graphql",
+              "helm-chart",
+              "indexer",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -1016,12 +1633,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Answer questions about the Bitcoin timechain out of your own node. Local artifacts, deterministic fingerprints, no third-party index.",
+            "homepage": "https://liberlume.com/en/",
             "id": 1320220247,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:20:52Z",
+            "open_issues": 0,
             "owner": "amenano",
             "repo": "nodsig",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "address-reuse",
+              "bitcoin",
+              "bitcoin-core",
+              "bitcoin-privacy",
+              "blockchain",
+              "data-analysis",
+              "key-reuse",
+              "no-dependencies",
+              "nonce",
+              "nonce-reuse",
+              "on-chain-data",
+              "privacy",
+              "python",
+              "self-hosted",
+              "utxo"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         }
@@ -1038,12 +1676,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An alternative full node bitcoin implementation written in Go (golang)",
+            "homepage": "https://github.com/btcsuite/btcd/blob/master/README.md",
             "id": 11931032,
             "language": "Go",
+            "license": "ISC",
             "last_commit": "2026-08-26T06:24:33Z",
+            "open_issues": 345,
             "owner": "btcsuite",
             "repo": "btcd",
-            "stars": 6704
+            "stars": 6704,
+            "topics": [
+              "bitcoin",
+              "btcd",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -1054,12 +1701,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full stack for bitcoin and blockchain-based applications",
+            "homepage": "https://bitcore.io/",
             "id": 15259244,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:44:59Z",
+            "open_issues": 51,
             "owner": "bitpay",
             "repo": "bitcore",
-            "stars": 4987
+            "stars": 4987,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -1070,12 +1722,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extensible full node using Bitcore",
+            "homepage": "https://bitcore.io/",
             "id": 30316427,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-08T08:32:19Z",
+            "open_issues": 89,
             "owner": "bitpay",
             "repo": "bitcore-node",
-            "stars": 352
+            "stars": 352,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -1086,12 +1743,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript implementation of Bitcoin.",
+            "homepage": null,
             "id": 22708225,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-16T21:35:26Z",
+            "open_issues": 29,
             "owner": "moneybutton",
             "repo": "yours-bitcoin",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -1102,12 +1764,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bitcoin node based on bitcoin-ruby-blockchain",
+            "homepage": null,
             "id": 30038582,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2016-04-23T20:11:00Z",
+            "open_issues": 3,
             "owner": "mhanne",
             "repo": "bitcoin-ruby-node",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         }
@@ -1124,12 +1791,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mastering Bitcoin 3rd Edition - Programming the Open Blockchain",
+            "homepage": "https://aantonop.com/books",
             "id": 12044132,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-26T18:18:32Z",
+            "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25296
+            "stars": 25297,
+            "topics": [
+              "bitcoin",
+              "bitcoin-api",
+              "blockchain",
+              "oreilly",
+              "oreilly-books"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -1140,12 +1818,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitcoin Protocol Development Curriculum",
+            "homepage": null,
             "id": 194906363,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-23T20:49:32Z",
+            "open_issues": 0,
             "owner": "chaincodelabs",
             "repo": "bitcoin-curriculum",
-            "stars": 699
+            "stars": 699,
+            "topics": [
+              "bitcoin"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -1156,12 +1841,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightning Network Protocol Development Curriculum",
+            "homepage": null,
             "id": 194895057,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-07T21:25:32Z",
+            "open_issues": 0,
             "owner": "chaincodelabs",
             "repo": "lightning-curriculum",
-            "stars": 371
+            "stars": 371,
+            "topics": [
+              "bitcoin",
+              "lightning-network"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -1172,12 +1865,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitcoin Programming with BitcoinJS, Bitcoin Core and LND",
+            "homepage": null,
             "id": 159542147,
             "language": "CSS",
+            "license": "MPL-2.0",
             "last_commit": "2023-01-10T22:24:02Z",
+            "open_issues": 5,
             "owner": "bitcoin-studio",
             "repo": "Bitcoin-Programming-with-BitcoinJS",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "antora",
+              "bitcoin",
+              "bitcoin-core",
+              "bitcoin-javascript",
+              "bitcoinjs-lib",
+              "guide",
+              "javascript",
+              "lnd",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         }
@@ -1186,15 +1894,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:07:25.964Z",
+    "last_updated": "2026-08-29T04:30:23.350Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of bitcoin services and tools for software developers",
+      "homepage": null,
       "id": 36278089,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-28T19:08:26Z",
+      "open_issues": 17,
       "owner": "igorbarinov",
       "repo": "awesome-bitcoin",
-      "stars": 1352
+      "stars": 1352,
+      "topics": []
     },
     "original_repository_sha": "70a4bc8ed47b5732571de5d9af7969f48b8731a0",
     "enhanced_repository": "enhansome/enhansome-bitcoin",
