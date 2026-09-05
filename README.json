@@ -418,7 +418,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-04T15:33:49Z",
-            "open_issues": 188,
+            "open_issues": 189,
             "owner": "Blockstream",
             "repo": "esplora",
             "stars": 1263,
@@ -725,7 +725,7 @@
             "open_issues": 1,
             "owner": "paulmillr",
             "repo": "noble-curves",
-            "stars": 950,
+            "stars": 952,
             "topics": [
               "bitcoin",
               "bls12-381",
@@ -1023,7 +1023,7 @@
             "id": 94193706,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-08-15T06:11:41Z",
+            "last_commit": "2026-09-05T05:23:36Z",
             "open_issues": 1,
             "owner": "chaintope",
             "repo": "bitcoinrb",
@@ -1104,11 +1104,11 @@
             "id": 21982089,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-04T02:20:04Z",
-            "open_issues": 476,
+            "last_commit": "2026-09-05T12:10:35Z",
+            "open_issues": 470,
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
-            "stars": 2676,
+            "stars": 2678,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
@@ -1204,7 +1204,7 @@
             "open_issues": 7,
             "owner": "sr-gi",
             "repo": "bitcoin_tools",
-            "stars": 313,
+            "stars": 314,
             "topics": [
               "bitcoin",
               "bitcoin-transaction",
@@ -1301,7 +1301,7 @@
             "open_issues": 189,
             "owner": "knowm",
             "repo": "XChange",
-            "stars": 4081,
+            "stars": 4080,
             "topics": [
               "bitcoin"
             ]
@@ -1320,8 +1320,8 @@
             "id": 303107075,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T19:44:21Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-05T10:49:38Z",
+            "open_issues": 18,
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
             "stars": 85,
@@ -1800,7 +1800,7 @@
             "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25303,
+            "stars": 25305,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -1810,6 +1810,27 @@
             ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Bitcoin Book of BIPs",
+          "description": "Deployed and complete BIPs, grouped by theme. PDF, ePUB, and web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Bitcoin Improvement Proposals",
+            "homepage": null,
+            "id": 14531737,
+            "language": "Wikitext",
+            "license": null,
+            "last_commit": "2026-09-03T23:28:08Z",
+            "open_issues": 57,
+            "owner": "bitcoin",
+            "repo": "bips",
+            "stars": 10932,
+            "topics": []
+          },
+          "first_seen": "2026-09-05T16:09:19.157Z"
         },
         {
           "node_type": "item",
@@ -1827,7 +1848,7 @@
             "open_issues": 0,
             "owner": "chaincodelabs",
             "repo": "bitcoin-curriculum",
-            "stars": 701,
+            "stars": 702,
             "topics": [
               "bitcoin"
             ]
@@ -1894,7 +1915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:55:03.942Z",
+    "last_updated": "2026-09-05T16:09:19.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bitcoin services and tools for software developers",
@@ -1902,14 +1923,14 @@
       "id": 36278089,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-28T19:08:26Z",
-      "open_issues": 19,
+      "last_commit": "2026-09-05T13:05:32Z",
+      "open_issues": 17,
       "owner": "igorbarinov",
       "repo": "awesome-bitcoin",
       "stars": 1350,
       "topics": []
     },
-    "original_repository_sha": "70a4bc8ed47b5732571de5d9af7969f48b8731a0",
+    "original_repository_sha": "81a3a3a4e64ffd8699e85883a266cebcbb47c0af",
     "enhanced_repository": "enhansome/enhansome-bitcoin",
     "enhanced_repository_description": null,
     "title": "Awesome Bitcoin with stars"
