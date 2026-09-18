@@ -46,7 +46,7 @@
             "open_issues": 14,
             "owner": "bitjson",
             "repo": "qr-code",
-            "stars": 1382,
+            "stars": 1383,
             "topics": [
               "animated",
               "bch",
@@ -79,7 +79,7 @@
             "id": 23613397,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T08:50:39Z",
+            "last_commit": "2026-09-17T23:24:52Z",
             "open_issues": 20,
             "owner": "libbitcoin",
             "repo": "libbitcoin-explorer",
@@ -104,7 +104,7 @@
             "open_issues": 45,
             "owner": "vulpemventures",
             "repo": "nigiri",
-            "stars": 329,
+            "stars": 330,
             "topics": [
               "ark",
               "ark-bitcoin",
@@ -650,7 +650,7 @@
             "open_issues": 54,
             "owner": "bitcoinjs",
             "repo": "bitcoinjs-lib",
-            "stars": 5999,
+            "stars": 6000,
             "topics": [
               "bitcoin",
               "bitcoinjs",
@@ -674,8 +674,8 @@
             "id": 15259244,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T00:23:11Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-18T15:45:50Z",
+            "open_issues": 56,
             "owner": "bitpay",
             "repo": "bitcore",
             "stars": 4986,
@@ -699,7 +699,7 @@
             "open_issues": 201,
             "owner": "bcoin-org",
             "repo": "bcoin",
-            "stars": 3069,
+            "stars": 3068,
             "topics": [
               "bitcoin",
               "cryptocurrency",
@@ -725,7 +725,7 @@
             "open_issues": 1,
             "owner": "paulmillr",
             "repo": "noble-curves",
-            "stars": 959,
+            "stars": 960,
             "topics": [
               "bitcoin",
               "bls12-381",
@@ -1104,8 +1104,8 @@
             "id": 21982089,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-17T12:57:54Z",
-            "open_issues": 464,
+            "last_commit": "2026-09-18T14:58:34Z",
+            "open_issues": 462,
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
             "stars": 2679,
@@ -1301,7 +1301,7 @@
             "open_issues": 189,
             "owner": "knowm",
             "repo": "XChange",
-            "stars": 4079,
+            "stars": 4078,
             "topics": [
               "bitcoin"
             ]
@@ -1320,7 +1320,7 @@
             "id": 303107075,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T22:58:03Z",
+            "last_commit": "2026-09-17T23:15:56Z",
             "open_issues": 15,
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
@@ -1376,7 +1376,7 @@
             "id": 18596168,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-17T10:20:05Z",
+            "last_commit": "2026-09-18T09:47:31Z",
             "open_issues": 113,
             "owner": "MetacoSA",
             "repo": "NBitcoin",
@@ -1682,10 +1682,10 @@
             "language": "Go",
             "license": "ISC",
             "last_commit": "2026-09-16T19:23:07Z",
-            "open_issues": 347,
+            "open_issues": 348,
             "owner": "btcsuite",
             "repo": "btcd",
-            "stars": 6708,
+            "stars": 6709,
             "topics": [
               "bitcoin",
               "btcd",
@@ -1706,8 +1706,8 @@
             "id": 15259244,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T00:23:11Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-18T15:45:50Z",
+            "open_issues": 56,
             "owner": "bitpay",
             "repo": "bitcore",
             "stars": 4986,
@@ -1800,7 +1800,7 @@
             "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25317,
+            "stars": 25318,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -1824,10 +1824,10 @@
             "language": "Wikitext",
             "license": null,
             "last_commit": "2026-09-16T21:11:02Z",
-            "open_issues": 59,
+            "open_issues": 62,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10941,
+            "stars": 10942,
             "topics": []
           },
           "first_seen": "2026-09-05T16:09:19.157Z"
@@ -1848,7 +1848,7 @@
             "open_issues": 0,
             "owner": "chaincodelabs",
             "repo": "bitcoin-curriculum",
-            "stars": 702,
+            "stars": 703,
             "topics": [
               "bitcoin"
             ]
@@ -1915,7 +1915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:40:46.367Z",
+    "last_updated": "2026-09-18T17:07:50.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bitcoin services and tools for software developers",
