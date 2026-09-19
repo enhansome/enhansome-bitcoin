@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "richardkiss",
             "repo": "pycoin",
-            "stars": 1440,
+            "stars": 1441,
             "topics": [
               "altcoins",
               "bip32",
@@ -79,8 +79,8 @@
             "id": 23613397,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T23:24:52Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-19T06:28:38Z",
+            "open_issues": 21,
             "owner": "libbitcoin",
             "repo": "libbitcoin-explorer",
             "stars": 643,
@@ -1104,8 +1104,8 @@
             "id": 21982089,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-18T14:58:34Z",
-            "open_issues": 462,
+            "last_commit": "2026-09-19T13:23:31Z",
+            "open_issues": 465,
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
             "stars": 2679,
@@ -1156,7 +1156,7 @@
             "open_issues": 19,
             "owner": "richardkiss",
             "repo": "pycoin",
-            "stars": 1440,
+            "stars": 1441,
             "topics": [
               "altcoins",
               "bip32",
@@ -1320,7 +1320,7 @@
             "id": 303107075,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T23:15:56Z",
+            "last_commit": "2026-09-19T03:04:13Z",
             "open_issues": 15,
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
@@ -1377,7 +1377,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-18T09:47:31Z",
-            "open_issues": 113,
+            "open_issues": 115,
             "owner": "MetacoSA",
             "repo": "NBitcoin",
             "stars": 1939,
@@ -1449,7 +1449,7 @@
             "open_issues": 11,
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5664,
+            "stars": 5665,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -1800,7 +1800,7 @@
             "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25318,
+            "stars": 25320,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -1823,11 +1823,11 @@
             "id": 14531737,
             "language": "Wikitext",
             "license": null,
-            "last_commit": "2026-09-16T21:11:02Z",
-            "open_issues": 62,
+            "last_commit": "2026-09-18T19:02:06Z",
+            "open_issues": 61,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10942,
+            "stars": 10943,
             "topics": []
           },
           "first_seen": "2026-09-05T16:09:19.157Z"
@@ -1848,7 +1848,7 @@
             "open_issues": 0,
             "owner": "chaincodelabs",
             "repo": "bitcoin-curriculum",
-            "stars": 703,
+            "stars": 704,
             "topics": [
               "bitcoin"
             ]
@@ -1915,7 +1915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:07:50.802Z",
+    "last_updated": "2026-09-19T16:37:44.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bitcoin services and tools for software developers",
@@ -1927,7 +1927,7 @@
       "open_issues": 18,
       "owner": "igorbarinov",
       "repo": "awesome-bitcoin",
-      "stars": 1353,
+      "stars": 1354,
       "topics": []
     },
     "original_repository_sha": "3a4ff97279087ff9015f9369e251ad485d377129",
