@@ -1,7 +1,7 @@
 # Awesome Bitcoin with stars
 
 A curated list of bitcoin services and tools for software developers
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,026 | 🐛 107 | 📅 2026-09-02
 
 ## List of content
 
@@ -123,7 +123,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## C Libraries
 
-* [libsecp256k1](https://github.com/bitcoin-core/secp256k1) ⭐ 2,485 | 🐛 161 | 🌐 C | 📅 2026-10-02
+* [libsecp256k1](https://github.com/bitcoin-core/secp256k1) ⭐ 2,485 | 🐛 160 | 🌐 C | 📅 2026-10-03
 * [UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1) ⭐ 59 | 🐛 1 | 🌐 C++ | 📅 2026-09-30 - High-performance `secp256k1` engine with a stable C ABI, CPU, CUDA, OpenCL, embedded, and WebAssembly targets.
 
 ## C++ Libraries
@@ -161,7 +161,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Rust Libraries
 
-* [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) ⭐ 2,687 | 🐛 474 | 🌐 Rust | 📅 2026-10-02 - support for de/serialization, parsing and executing on data-structures and network messages.
+* [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) ⭐ 2,687 | 🐛 476 | 🌐 Rust | 📅 2026-10-03 - support for de/serialization, parsing and executing on data-structures and network messages.
 * [Bithoven](https://github.com/ChrisCho-H/bithoven) ⭐ 43 | 🐛 5 | 🌐 Rust | 📅 2026-09-15 -  A High-Level, Imperative Language for Bitcoin Smart Contracts, featuring an LR(1) parser with static analysis for compile-time safety.
 * [Bitcoin Dev Kit (BDK)](https://bitcoindevkit.org/) - With BDK, you can seamlessly build cross platform mobile wallets
 * [Lightning Dev Kit (LDK)](https://lightningdevkit.org/) -  Complete Lightning implementation packaged as an SDK
@@ -227,7 +227,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Full nodes
 
-* [btcd](https://github.com/btcsuite/btcd/) ⭐ 6,712 | 🐛 350 | 🌐 Go | 📅 2026-09-16 - Go-based full node since 2013.
+* [btcd](https://github.com/btcsuite/btcd/) ⭐ 6,712 | 🐛 351 | 🌐 Go | 📅 2026-09-16 - Go-based full node since 2013.
 * [Bitcore](https://github.com/bitpay/bitcore) ⭐ 4,985 | 🐛 56 | 🌐 TypeScript | 📅 2026-09-30 - Formerly just a Nodejs library, now a full node.
 * [Bitcore Node](https://github.com/bitpay/bitcore-node) ⭐ 352 | 🐛 91 | 🌐 JavaScript | 📅 2026-09-01 - bitcoind linked to node.js by BitPay.
 * [Fullnode](https://github.com/moneybutton/yours-bitcoin) ⭐ 193 | 🐛 29 | 🌐 JavaScript | 📅 2022-04-16 - Javascript implementation of bitcoin.
@@ -236,7 +236,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Read
 
-* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,331 | 🐛 191 | 🌐 HTML | 📅 2024-12-26
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,332 | 🐛 191 | 🌐 HTML | 📅 2024-12-26
 * [Bitcoin Book of BIPs](https://adamdecaf.github.io/bitcoin-bips-book/) - Deployed and complete [BIPs](https://github.com/bitcoin/bips) ⭐ 10,950 | 🐛 64 | 🌐 Wikitext | 📅 2026-10-02, grouped by theme. PDF, ePUB, and web.
 * [Bitcoin Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/bitcoin-curriculum) ⭐ 704 | 🐛 0 | 📅 2025-08-23.
 * [Lightning Network Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/lightning-curriculum) ⭐ 372 | 🐛 0 | 📅 2023-12-07.
@@ -271,7 +271,7 @@ A curated list of bitcoin services and tools for software developers
 
 ***
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,026 | 🐛 107 | 📅 2026-09-02 list thing.
 Created by BlockchainU fellows.
 
 ***

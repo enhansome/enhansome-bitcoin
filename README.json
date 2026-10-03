@@ -598,8 +598,8 @@
             "id": 16648618,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-02T07:39:44Z",
-            "open_issues": 161,
+            "last_commit": "2026-10-03T11:44:53Z",
+            "open_issues": 160,
             "owner": "bitcoin-core",
             "repo": "secp256k1",
             "stars": 2485,
@@ -1125,8 +1125,8 @@
             "id": 21982089,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-02T03:29:05Z",
-            "open_issues": 474,
+            "last_commit": "2026-10-03T04:47:20Z",
+            "open_issues": 476,
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
             "stars": 2687,
@@ -1703,7 +1703,7 @@
             "language": "Go",
             "license": "ISC",
             "last_commit": "2026-09-16T19:23:07Z",
-            "open_issues": 350,
+            "open_issues": 351,
             "owner": "btcsuite",
             "repo": "btcd",
             "stars": 6712,
@@ -1821,7 +1821,7 @@
             "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25331,
+            "stars": 25332,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -1936,7 +1936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:35:16.630Z",
+    "last_updated": "2026-10-03T17:28:52.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bitcoin services and tools for software developers",
