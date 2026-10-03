@@ -79,7 +79,7 @@
             "id": 23613397,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T17:40:45Z",
+            "last_commit": "2026-10-03T03:55:35Z",
             "open_issues": 21,
             "owner": "libbitcoin",
             "repo": "libbitcoin-explorer",
@@ -175,8 +175,8 @@
             "id": 1172004746,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T11:27:11Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-03T01:19:54Z",
+            "open_issues": 19,
             "owner": "boazeb",
             "repo": "papervault",
             "stars": 65,
@@ -429,7 +429,7 @@
         {
           "node_type": "item",
           "title": "Insight",
-          "description": null,
+          "description": "bitpay/insight",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -552,7 +552,7 @@
         {
           "node_type": "item",
           "title": "Bitcoin Transaction Explorer",
-          "description": null,
+          "description": "yogh-io/bitcoin-transaction-explorer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -589,7 +589,7 @@
         {
           "node_type": "item",
           "title": "libsecp256k1",
-          "description": null,
+          "description": "bitcoin-core/secp256k1",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -658,7 +658,7 @@
         {
           "node_type": "item",
           "title": "Bitcoinjs-lib",
-          "description": null,
+          "description": "bitcoinjs/bitcoinjs-lib",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -686,7 +686,7 @@
         {
           "node_type": "item",
           "title": "Bitcore Library",
-          "description": null,
+          "description": "bitpay/bitcore",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -843,7 +843,7 @@
         {
           "node_type": "item",
           "title": "Awesome CryptoCoinJS",
-          "description": null,
+          "description": "cryptocoinjs/awesome-cryptocoinjs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -867,7 +867,7 @@
         {
           "node_type": "item",
           "title": "BlockTrail SDK NodeJS",
-          "description": null,
+          "description": "blocktrail/blocktrail-sdk-nodejs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -966,7 +966,7 @@
         {
           "node_type": "item",
           "title": "PHP-OP_RETURN",
-          "description": null,
+          "description": "coinspark/php-OP_RETURN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -987,7 +987,7 @@
         {
           "node_type": "item",
           "title": "BlockTrail PHP SDK",
-          "description": null,
+          "description": "blocktrail/blocktrail-sdk-php",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1014,7 +1014,7 @@
         {
           "node_type": "item",
           "title": "Bitcoin-ruby",
-          "description": null,
+          "description": "lian/bitcoin-ruby",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1126,7 +1126,7 @@
             "language": "Rust",
             "license": "CC0-1.0",
             "last_commit": "2026-10-02T03:29:05Z",
-            "open_issues": 471,
+            "open_issues": 474,
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
             "stars": 2687,
@@ -1240,7 +1240,7 @@
         {
           "node_type": "item",
           "title": "BlockTrail SDK Python",
-          "description": null,
+          "description": "blocktrail/blocktrail-sdk-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1528,7 +1528,7 @@
         {
           "node_type": "item",
           "title": "Script Debugger",
-          "description": null,
+          "description": "kallewoof/btcdeb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1703,7 +1703,7 @@
             "language": "Go",
             "license": "ISC",
             "last_commit": "2026-09-16T19:23:07Z",
-            "open_issues": 349,
+            "open_issues": 350,
             "owner": "btcsuite",
             "repo": "btcd",
             "stars": 6712,
@@ -1808,7 +1808,7 @@
         {
           "node_type": "item",
           "title": "Mastering Bitcoin",
-          "description": null,
+          "description": "bitcoinbook/bitcoinbook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1848,7 +1848,7 @@
             "open_issues": 64,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10951,
+            "stars": 10950,
             "topics": []
           },
           "first_seen": "2026-09-05T16:09:19.157Z"
@@ -1856,7 +1856,7 @@
         {
           "node_type": "item",
           "title": "Bitcoin Protocol Development Curriculum - Chaincode Labs",
-          "description": ".",
+          "description": "chaincodelabs/bitcoin-curriculum",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1879,7 +1879,7 @@
         {
           "node_type": "item",
           "title": "Lightning Network Protocol Development Curriculum - Chaincode Labs",
-          "description": ".",
+          "description": "chaincodelabs/lightning-curriculum",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1903,7 +1903,7 @@
         {
           "node_type": "item",
           "title": "Bitcoin Programming with BitcoinJS and Bitcoin Core CLI",
-          "description": ".",
+          "description": "bitcoin-studio/Bitcoin-Programming-with-BitcoinJS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1936,7 +1936,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:34:18.481Z",
+    "last_updated": "2026-10-03T04:35:16.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bitcoin services and tools for software developers",
