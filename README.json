@@ -80,7 +80,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T06:27:13Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "libbitcoin",
             "repo": "libbitcoin-explorer",
             "stars": 641,
@@ -363,41 +363,6 @@
             ]
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SuperScalar MCP",
-          "description": "MCP server for SuperScalar Bitcoin Lightning channel factories — onboard N users in one shared UTXO, no soft fork required.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "MCP server for SuperScalar — Bitcoin Lightning channel factories. Query protocol specs, estimate UTXO savings, and explore factory architectures.",
-            "homepage": null,
-            "id": 1171981381,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-03-03T21:42:39Z",
-            "open_issues": 0,
-            "owner": "8144225309",
-            "repo": "superscalar-mcp",
-            "stars": 0,
-            "topics": [
-              "bitcoin",
-              "channel-factory",
-              "layer2",
-              "lightning",
-              "lightning-network",
-              "mcp",
-              "mcp-server",
-              "model-context-protocol",
-              "musig2",
-              "payments",
-              "scaling",
-              "superscalar",
-              "taproot"
-            ]
-          },
-          "first_seen": "2026-08-28T23:07:25.964Z"
         }
       ],
       "title": "Utilities"
@@ -602,7 +567,7 @@
             "open_issues": 161,
             "owner": "bitcoin-core",
             "repo": "secp256k1",
-            "stars": 2486,
+            "stars": 2487,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
@@ -695,8 +660,8 @@
             "id": 15259244,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T15:51:27Z",
-            "open_issues": 46,
+            "last_commit": "2026-10-08T16:54:50Z",
+            "open_issues": 47,
             "owner": "bitpay",
             "repo": "bitcore",
             "stars": 4983,
@@ -743,7 +708,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-08T12:06:03Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "paulmillr",
             "repo": "noble-curves",
             "stars": 961,
@@ -1125,8 +1090,8 @@
             "id": 21982089,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-06T15:36:31Z",
-            "open_issues": 467,
+            "last_commit": "2026-10-08T03:07:11Z",
+            "open_issues": 475,
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
             "stars": 2683,
@@ -1341,7 +1306,7 @@
             "id": 303107075,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T06:06:09Z",
+            "last_commit": "2026-10-08T04:12:16Z",
             "open_issues": 16,
             "owner": "theborakompanioni",
             "repo": "bitcoin-spring-boot-starter",
@@ -1397,7 +1362,7 @@
             "id": 18596168,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-07T10:05:17Z",
+            "last_commit": "2026-10-08T03:33:53Z",
             "open_issues": 113,
             "owner": "MetacoSA",
             "repo": "NBitcoin",
@@ -1470,7 +1435,7 @@
             "open_issues": 11,
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5662,
+            "stars": 5663,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -1703,10 +1668,10 @@
             "language": "Go",
             "license": "ISC",
             "last_commit": "2026-10-06T11:37:31Z",
-            "open_issues": 356,
+            "open_issues": 357,
             "owner": "btcsuite",
             "repo": "btcd",
-            "stars": 6711,
+            "stars": 6712,
             "topics": [
               "bitcoin",
               "btcd",
@@ -1727,8 +1692,8 @@
             "id": 15259244,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T15:51:27Z",
-            "open_issues": 46,
+            "last_commit": "2026-10-08T16:54:50Z",
+            "open_issues": 47,
             "owner": "bitpay",
             "repo": "bitcore",
             "stars": 4983,
@@ -1821,7 +1786,7 @@
             "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25330,
+            "stars": 25331,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -1848,7 +1813,7 @@
             "open_issues": 67,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10952,
+            "stars": 10954,
             "topics": []
           },
           "first_seen": "2026-09-05T16:09:19.157Z"
@@ -1936,7 +1901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T19:25:33.314Z",
+    "last_updated": "2026-10-08T19:20:34.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bitcoin services and tools for software developers",
