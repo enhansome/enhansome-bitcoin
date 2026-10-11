@@ -1,7 +1,7 @@
 # Awesome Bitcoin with stars
 
 A curated list of bitcoin services and tools for software developers
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,149 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,596 | 🐛 105 | 📅 2026-09-02
 
 ## List of content
 
@@ -39,15 +39,15 @@ A curated list of bitcoin services and tools for software developers
 * [Nigiri](https://github.com/vulpemventures/nigiri/) ⭐ 331 | 🐛 46 | 🌐 Go | 📅 2026-07-10 - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
 * [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) ⭐ 255 | 🐛 2 | 🌐 Go | 📅 2017-03-22 - A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
 * [hal](https://github.com/stevenroose/hal) ⭐ 216 | 🐛 11 | 🌐 Rust | 📅 2026-03-12 - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
-* [PaperVault](https://github.com/boazeb/papervault) ⭐ 66 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-06 - Offline paper-based secret storage using AES-256-GCM and Shamir's Secret Sharing. Create printable encrypted backups of seed phrases with threshold key splitting.
+* [PaperVault](https://github.com/boazeb/papervault) ⭐ 66 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-10 - Offline paper-based secret storage using AES-256-GCM and Shamir's Secret Sharing. Create printable encrypted backups of seed phrases with threshold key splitting.
 * [txwatcher](https://github.com/tsileo/txwatcher) ⭐ 50 | 🐛 6 | 🌐 Python | 📅 2018-03-04 - A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
 * [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) ⭐ 35 | 🐛 11 | 🌐 JavaScript | 📅 2022-12-11 - Find all used addresses in your Bitcoin HD wallets bypassing gap limits.
 * [BTC Tooling](https://github.com/douvy/btc-tooling) ⭐ 34 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-07 - Bitcoin dashboard with real-time price data, a chart, orderbook, market summary, Twitter/X insights, and halving countdown data. [Live Demo](https://www.btctooling.com/)
 * [Lightning Memory](https://github.com/singularityjason/lightning-memory) ⭐ 9 | 🐛 6 | 🌐 Python | 📅 2026-03-25 - Open-source memory layer for AI agents in the Bitcoin/Lightning economy. L402 payment gateway, vendor reputation, spending anomaly detection.
-* [Bitcoin Serverless Donations](https://github.com/tombennet/bitcoin-serverless-donations) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-14 - Self-custodial serverless donation widget with address rotation derived from an XPUB.
 * [BTC Airgap Bridge](https://github.com/paranoid-qrypto/btc-airgap-bridge) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2025-07-03 - 100% client-side tool for broadcasting signed Bitcoin transactions from air-gapped wallets.
 * [BitKey](https://bitkey.io) - Live USB for airgapped transactions and Bitcoin swiss army knife.
 * [Mining visualization](https://yogh.io/landing/)
+* [Bitcoin Serverless Donations](https://github.com/tombennet/bitcoin-serverless-donations) - Self-custodial serverless donation widget with address rotation derived from an XPUB.
 * [Chartscout](https://chartscout.io) - Real-time BTC chart pattern detection and trading alerts across multiple exchanges.
 * [Bitcoin Bottom Score](https://bitcoinbottom.app) - Real-time Bitcoin cycle bottom probability tracker. Aggregates 25 on-chain and macro signals (MVRV Z-Score, Puell Multiple, Hash Ribbon, ETF flows) into a daily P(bottom) score. Free, updated twice daily.
 * [SuperScalar MCP](https://github.com/8144225309/superscalar-mcp) - MCP server for SuperScalar Bitcoin Lightning channel factories — onboard N users in one shared UTXO, no soft fork required.
@@ -123,7 +123,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## C Libraries
 
-* [libsecp256k1](https://github.com/bitcoin-core/secp256k1) ⭐ 2,489 | 🐛 162 | 🌐 C | 📅 2026-10-03
+* [libsecp256k1](https://github.com/bitcoin-core/secp256k1) ⭐ 2,489 | 🐛 166 | 🌐 C | 📅 2026-10-03
 * [UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1) ⭐ 59 | 🐛 1 | 🌐 C++ | 📅 2026-10-05 - High-performance `secp256k1` engine with a stable C ABI, CPU, CUDA, OpenCL, embedded, and WebAssembly targets.
 
 ## C++ Libraries
@@ -134,7 +134,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## JavaScript Libraries
 
-* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) ⭐ 6,002 | 🐛 57 | 🌐 JavaScript | 📅 2026-02-17
+* [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) ⭐ 6,002 | 🐛 58 | 🌐 JavaScript | 📅 2026-02-17
 * [Bitcore Library](https://github.com/bitpay/bitcore/tree/v8.0.0/packages/bitcore-lib) ⭐ 4,982 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-08
 * [bcoin](https://github.com/bcoin-org/bcoin) ⭐ 3,070 | 🐛 201 | 🌐 JavaScript | 📅 2024-02-12 - Javascript bitcoin library for node.js and browsers.
 * [noble-curves](https://github.com/paulmillr/noble-curves) ⭐ 960 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-08 — audited implementation of secp256k1 + schnorr in pure typescript
@@ -161,7 +161,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Rust Libraries
 
-* [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) ⭐ 2,682 | 🐛 475 | 🌐 Rust | 📅 2026-10-10 - support for de/serialization, parsing and executing on data-structures and network messages.
+* [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) ⭐ 2,683 | 🐛 466 | 🌐 Rust | 📅 2026-10-11 - support for de/serialization, parsing and executing on data-structures and network messages.
 * [Bithoven](https://github.com/ChrisCho-H/bithoven) ⭐ 43 | 🐛 5 | 🌐 Rust | 📅 2026-09-15 -  A High-Level, Imperative Language for Bitcoin Smart Contracts, featuring an LR(1) parser with static analysis for compile-time safety.
 * [Bitcoin Dev Kit (BDK)](https://bitcoindevkit.org/) - With BDK, you can seamlessly build cross platform mobile wallets
 * [Lightning Dev Kit (LDK)](https://lightningdevkit.org/) -  Complete Lightning implementation packaged as an SDK
@@ -192,7 +192,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Swift libraries
 
-* [secp256k1.swift](https://github.com/GigaBitcoin/secp256k1.swift) ⭐ 158 | 🐛 2 | 🌐 Swift | 📅 2026-10-10 - Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.
+* [secp256k1.swift](https://github.com/GigaBitcoin/secp256k1.swift) ⭐ 160 | 🐛 2 | 🌐 Swift | 📅 2026-10-10 - Swift package for secp256k1 applications, includes Elliptic Curve operations, Schnorr, ZKP and more for Bitcoin.
 
 ## .Net Libraries
 
@@ -207,7 +207,7 @@ A curated list of bitcoin services and tools for software developers
 
 * [blockchain-demo](https://github.com/anders94/blockchain-demo/) ⭐ 5,663 | 🐛 11 | 🌐 Pug | 📅 2026-10-01 - A web-based demonstration of blockchain concepts.
 * [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) ⭐ 221 | 🐛 16 | 🌐 JavaScript | 📅 2019-10-30 - Bitcoin Script for dummies.
-* [Bitcoin Script Debugger](https://github.com/liuhongchao/bitcoin4s) ⭐ 60 | 🐛 4 | 🌐 Scala | 📅 2026-07-26 - Visualize Bitcoin script execution for real transactions.
+* [Bitcoin Script Debugger](https://github.com/liuhongchao/bitcoin4s) ⭐ 61 | 🐛 4 | 🌐 Scala | 📅 2026-07-26 - Visualize Bitcoin script execution for real transactions.
 * [Script Debugger](https://github.com/kallewoof/btcdeb) ⭐ 45 | 🐛 0 | 🌐 C | 📅 2026-07-26
 * [Script Playground](https://www.crmarsh.com/script-playground/)
 * [Bitcore Playground](https://bitpay.github.io/bitcore-playground/app/)
@@ -227,7 +227,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Full nodes
 
-* [btcd](https://github.com/btcsuite/btcd/) ⭐ 6,711 | 🐛 360 | 🌐 Go | 📅 2026-10-09 - Go-based full node since 2013.
+* [btcd](https://github.com/btcsuite/btcd/) ⭐ 6,711 | 🐛 363 | 🌐 Go | 📅 2026-10-09 - Go-based full node since 2013.
 * [Bitcore](https://github.com/bitpay/bitcore) ⭐ 4,982 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-08 - Formerly just a Nodejs library, now a full node.
 * [Bitcore Node](https://github.com/bitpay/bitcore-node) ⭐ 350 | 🐛 91 | 🌐 JavaScript | 📅 2026-09-01 - bitcoind linked to node.js by BitPay.
 * [Fullnode](https://github.com/moneybutton/yours-bitcoin) ⭐ 193 | 🐛 29 | 🌐 JavaScript | 📅 2022-04-16 - Javascript implementation of bitcoin.
@@ -236,8 +236,8 @@ A curated list of bitcoin services and tools for software developers
 
 ## Read
 
-* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,331 | 🐛 191 | 🌐 HTML | 📅 2024-12-26
-* [Bitcoin Book of BIPs](https://adamdecaf.github.io/bitcoin-bips-book/) - Deployed and complete [BIPs](https://github.com/bitcoin/bips) ⭐ 10,958 | 🐛 68 | 🌐 Wikitext | 📅 2026-10-02, grouped by theme. PDF, ePUB, and web.
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,332 | 🐛 191 | 🌐 HTML | 📅 2024-12-26
+* [Bitcoin Book of BIPs](https://adamdecaf.github.io/bitcoin-bips-book/) - Deployed and complete [BIPs](https://github.com/bitcoin/bips) ⭐ 10,962 | 🐛 70 | 🌐 Wikitext | 📅 2026-10-02, grouped by theme. PDF, ePUB, and web.
 * [Bitcoin Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/bitcoin-curriculum) ⭐ 703 | 🐛 0 | 📅 2025-08-23.
 * [Lightning Network Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/lightning-curriculum) ⭐ 371 | 🐛 0 | 📅 2023-12-07.
 * [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS) ⭐ 163 | 🐛 5 | 🌐 CSS | 📅 2023-01-10.
@@ -271,7 +271,7 @@ A curated list of bitcoin services and tools for software developers
 
 ***
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,149 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,596 | 🐛 105 | 📅 2026-09-02 list thing.
 Created by BlockchainU fellows.
 
 ***
@@ -284,4 +284,4 @@ To the extent possible under law, [Igor Barinov](https://github.com/igorbarinov/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

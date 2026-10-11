@@ -175,7 +175,7 @@
             "id": 1172004746,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T06:22:35Z",
+            "last_commit": "2026-10-10T20:16:49Z",
             "open_issues": 20,
             "owner": "boazeb",
             "repo": "papervault",
@@ -304,27 +304,6 @@
               "semantic-search",
               "sqlite"
             ]
-          },
-          "first_seen": "2026-08-28T23:07:25.964Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bitcoin Serverless Donations",
-          "description": "Self-custodial serverless donation widget with address rotation derived from an XPUB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A simple, self-custodial solution for accepting private, on-chain Bitcoin payments using XPUBs and serverless functions.",
-            "homepage": null,
-            "id": 1026889005,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-14T08:12:34Z",
-            "open_issues": 0,
-            "owner": "bennet-org",
-            "repo": "bitcoin-serverless-donations",
-            "stars": 4,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
         },
@@ -564,7 +543,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-03T11:44:53Z",
-            "open_issues": 162,
+            "open_issues": 166,
             "owner": "bitcoin-core",
             "repo": "secp256k1",
             "stars": 2489,
@@ -633,7 +612,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-02-17T01:08:49Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "bitcoinjs",
             "repo": "bitcoinjs-lib",
             "stars": 6002,
@@ -1090,11 +1069,11 @@
             "id": 21982089,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-10T05:19:26Z",
-            "open_issues": 475,
+            "last_commit": "2026-10-11T10:43:44Z",
+            "open_issues": 466,
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
-            "stars": 2682,
+            "stars": 2683,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
@@ -1481,7 +1460,7 @@
             "open_issues": 4,
             "owner": "h0ngcha0",
             "repo": "bitcoin4s",
-            "stars": 60,
+            "stars": 61,
             "topics": [
               "bitcoin",
               "cryptocurrency",
@@ -1668,7 +1647,7 @@
             "language": "Go",
             "license": "ISC",
             "last_commit": "2026-10-09T01:25:23Z",
-            "open_issues": 360,
+            "open_issues": 363,
             "owner": "btcsuite",
             "repo": "btcd",
             "stars": 6711,
@@ -1786,7 +1765,7 @@
             "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25331,
+            "stars": 25332,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -1810,10 +1789,10 @@
             "language": "Wikitext",
             "license": null,
             "last_commit": "2026-10-02T13:27:57Z",
-            "open_issues": 68,
+            "open_issues": 70,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10958,
+            "stars": 10962,
             "topics": []
           },
           "first_seen": "2026-09-05T16:09:19.157Z"
@@ -1901,7 +1880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:55:29.049Z",
+    "last_updated": "2026-10-11T18:13:52.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bitcoin services and tools for software developers",
