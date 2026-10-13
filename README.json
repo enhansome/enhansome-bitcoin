@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "richardkiss",
             "repo": "pycoin",
-            "stars": 1441,
+            "stars": 1440,
             "topics": [
               "altcoins",
               "bip32",
@@ -46,7 +46,7 @@
             "open_issues": 14,
             "owner": "bitjson",
             "repo": "qr-code",
-            "stars": 1383,
+            "stars": 1382,
             "topics": [
               "animated",
               "bch",
@@ -79,8 +79,8 @@
             "id": 23613397,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T19:37:21Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-13T17:03:10Z",
+            "open_issues": 20,
             "owner": "libbitcoin",
             "repo": "libbitcoin-explorer",
             "stars": 642,
@@ -365,7 +365,7 @@
             "open_issues": 190,
             "owner": "Blockstream",
             "repo": "esplora",
-            "stars": 1270,
+            "stars": 1269,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
@@ -543,10 +543,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-12T20:09:56Z",
-            "open_issues": 164,
+            "open_issues": 165,
             "owner": "bitcoin-core",
             "repo": "secp256k1",
-            "stars": 2490,
+            "stars": 2491,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
@@ -563,8 +563,8 @@
             "id": 1148013745,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-12T07:37:53Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-13T01:33:14Z",
+            "open_issues": 4,
             "owner": "shrec",
             "repo": "UltrafastSecp256k1",
             "stars": 59,
@@ -615,7 +615,7 @@
             "open_issues": 59,
             "owner": "bitcoinjs",
             "repo": "bitcoinjs-lib",
-            "stars": 6001,
+            "stars": 6002,
             "topics": [
               "bitcoin",
               "bitcoinjs",
@@ -643,7 +643,7 @@
             "open_issues": 52,
             "owner": "bitpay",
             "repo": "bitcore",
-            "stars": 4981,
+            "stars": 4980,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
@@ -664,7 +664,7 @@
             "open_issues": 201,
             "owner": "bcoin-org",
             "repo": "bcoin",
-            "stars": 3069,
+            "stars": 3068,
             "topics": [
               "bitcoin",
               "cryptocurrency",
@@ -690,7 +690,7 @@
             "open_issues": 3,
             "owner": "paulmillr",
             "repo": "noble-curves",
-            "stars": 961,
+            "stars": 962,
             "topics": [
               "bitcoin",
               "bls12-381",
@@ -988,7 +988,7 @@
             "id": 94193706,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-12T08:56:20Z",
+            "last_commit": "2026-10-13T04:40:10Z",
             "open_issues": 1,
             "owner": "chaintope",
             "repo": "bitcoinrb",
@@ -1069,11 +1069,11 @@
             "id": 21982089,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-11T21:03:36Z",
-            "open_issues": 472,
+            "last_commit": "2026-10-13T16:51:04Z",
+            "open_issues": 450,
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
-            "stars": 2683,
+            "stars": 2684,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
@@ -1121,7 +1121,7 @@
             "open_issues": 19,
             "owner": "richardkiss",
             "repo": "pycoin",
-            "stars": 1441,
+            "stars": 1440,
             "topics": [
               "altcoins",
               "bip32",
@@ -1410,11 +1410,11 @@
             "id": 72867492,
             "language": "Pug",
             "license": "MIT",
-            "last_commit": "2026-10-01T20:12:57Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-13T07:55:24Z",
+            "open_issues": 12,
             "owner": "anders94",
             "repo": "blockchain-demo",
-            "stars": 5663,
+            "stars": 5662,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -1646,8 +1646,8 @@
             "id": 11931032,
             "language": "Go",
             "license": "ISC",
-            "last_commit": "2026-10-09T01:25:23Z",
-            "open_issues": 363,
+            "last_commit": "2026-10-12T22:53:40Z",
+            "open_issues": 362,
             "owner": "btcsuite",
             "repo": "btcd",
             "stars": 6709,
@@ -1675,7 +1675,7 @@
             "open_issues": 52,
             "owner": "bitpay",
             "repo": "bitcore",
-            "stars": 4981,
+            "stars": 4980,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
@@ -1765,7 +1765,7 @@
             "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25330,
+            "stars": 25329,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -1792,7 +1792,7 @@
             "open_issues": 70,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10965,
+            "stars": 10967,
             "topics": []
           },
           "first_seen": "2026-09-05T16:09:19.157Z"
@@ -1880,7 +1880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:47:57.595Z",
+    "last_updated": "2026-10-13T19:55:01.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bitcoin services and tools for software developers",
