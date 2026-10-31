@@ -79,7 +79,7 @@
             "id": 23613397,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T13:45:27Z",
+            "last_commit": "2026-10-30T20:49:15Z",
             "open_issues": 10,
             "owner": "libbitcoin",
             "repo": "libbitcoin-explorer",
@@ -175,7 +175,7 @@
             "id": 1172004746,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T13:59:36Z",
+            "last_commit": "2026-10-31T16:59:23Z",
             "open_issues": 26,
             "owner": "boazeb",
             "repo": "papervault",
@@ -511,7 +511,7 @@
             "open_issues": 227,
             "owner": "JoinMarket-Org",
             "repo": "joinmarket-clientserver",
-            "stars": 826,
+            "stars": 825,
             "topics": [
               "bitcoin",
               "coinjoin",
@@ -577,11 +577,11 @@
             "id": 16648618,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-26T08:54:37Z",
-            "open_issues": 173,
+            "last_commit": "2026-10-31T10:06:53Z",
+            "open_issues": 172,
             "owner": "bitcoin-core",
             "repo": "secp256k1",
-            "stars": 2500,
+            "stars": 2502,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
@@ -1023,7 +1023,7 @@
             "id": 94193706,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-30T08:33:29Z",
+            "last_commit": "2026-10-31T14:18:22Z",
             "open_issues": 1,
             "owner": "chaintope",
             "repo": "bitcoinrb",
@@ -1048,7 +1048,7 @@
             "id": 90827323,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-08-07T05:59:23Z",
+            "last_commit": "2026-10-31T14:34:29Z",
             "open_issues": 1,
             "owner": "azuchi",
             "repo": "bech32rb",
@@ -1104,11 +1104,11 @@
             "id": 21982089,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-30T16:23:10Z",
-            "open_issues": 448,
+            "last_commit": "2026-10-31T14:51:16Z",
+            "open_issues": 455,
             "owner": "rust-bitcoin",
             "repo": "rust-bitcoin",
-            "stars": 2692,
+            "stars": 2691,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.964Z"
@@ -1682,7 +1682,7 @@
             "language": "Go",
             "license": "ISC",
             "last_commit": "2026-10-21T23:42:38Z",
-            "open_issues": 374,
+            "open_issues": 375,
             "owner": "btcsuite",
             "repo": "btcd",
             "stars": 6717,
@@ -1800,7 +1800,7 @@
             "open_issues": 193,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25334,
+            "stars": 25333,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -1827,7 +1827,7 @@
             "open_issues": 67,
             "owner": "bitcoin",
             "repo": "bips",
-            "stars": 10998,
+            "stars": 10999,
             "topics": []
           },
           "first_seen": "2026-09-05T16:09:19.157Z"
@@ -1915,7 +1915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:41:53.370Z",
+    "last_updated": "2026-10-31T17:50:39.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bitcoin services and tools for software developers",
